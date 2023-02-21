@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Memristor-based neuron circuit with adaptive firing rate"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'July 6'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/8426182'
+citation: X. Shi and Z. Zeng, "Memristor-Based Neuron Circuit with Adaptive Firing Rate," <i>2018 Eighth International Conference on Information Science and Technology (ICIST)<i>, Cordoba, Granada, and Seville, Spain, 2018, pp. 176-181, doi: 10.1109/ICIST.2018.8426182.
 ---
-This paper is about the number 1. The number 2 is left for future work.
+[Download paper here](https://ieeexplore.ieee.org/abstract/document/8426182)
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: X. Shi and Z. Zeng, "Memristor-Based Neuron Circuit with Adaptive Firing Rate," <i>2018 Eighth International Conference on Information Science and Technology (ICIST)<i>, Cordoba, Granada, and Seville, Spain, 2018, pp. 176-181, doi: 10.1109/ICIST.2018.8426182.
