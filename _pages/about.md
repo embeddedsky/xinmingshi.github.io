@@ -76,28 +76,26 @@ Publications
 	   
 
   
-  
-  
+
 Patents
 ------
 <ol type="1">
     <li><p style="margin:1">
 		<b>Xinming Shi</b> and Xin Yao, "Automatic design method and device for analog circuit based on tree structure, equipment and medium," Pub Number: CN202110713376.7, Jun. 2021.
-		</li>
+	
   
     <li><p style="margin:1">
 		<b>Xinming Shi</b> and Xin Yao, "Automatisches Entwurfsvorrichtung fur eine analoge Schaltung basierend auf enier Baumstruktur," Prioritat: 25.06.2021, Sep. 2022. (German patent)
-		</li>
+	
   
 		<li><p style="margin:1">
 			<b>Xinming Shi</b>, Zhigang Zeng, “A memristor-based neuron circuit with homeostatic plasticity”, Huazhong University of Science and Techology, Pub Number CN107742153A, Feb. 2018.
-		</li>
+		
 		
 		<li><p style="margin:1">
  Huazhong Xu, Miaoke Chen, <b>Xinming Shi</b>, Hang Yang, Xiao Peng and Jian Luo, “Concentrated treatment of living oil fumes emissions” Wuhan University of Technology, Pub Number 201530152318.7, May. 2015.
-		</li>
+	
 			
 		<li><p style="margin:1">
 Huazhong Xu, Yixin Wang, <b>Xinming Shi</b>, Xipeng Yu, Xiao Peng, Miaoke Chen, “An emission device of living oil fumes”, Wuhan University of Technology, Pub Number 201520324700.6, May. 2015.
-		</li>
-	</ol>
+
