@@ -1,50 +1,103 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Xinming Shi received the B.E. degree in electronic engineering from Wuhan University of Technology, Wuhan, China, in 2016.  She received the M.E. degree in  School of Artificial Intelligence \& Automation from Huazhong University of Science and Technology, Wuhan, China, in 2019. She is currently pursuing her Ph.D. degree in Computer Science at the University of Birmingham, U.K., in collaboration with Southern University of Science and Technology, Shenzhen, China. Her research interests mainly include Evolvable HardWare (EHW) based on emerging electronic devices, memristor-based neural networks, and Genetic Programming (GP). 
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
+Education & Work Experience
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+* Present, Pursuing Ph.D in in Computer Science, University of Birmingham, UK, Supervisor: [Prof. Xin Yao](https://www.cs.bham.ac.uk/~xin/)
+* 2020, 4-month internship in Huawei 2012 Laboratories Central Research Institute, project: intellegent complier of brain-like chip.
+* 2016-2019, M.E. in Control Science and Engineering, Huazhong University of Science and Technology, China, Supervisor: [Prof. Zhigang Zeng](http://aia.hust.edu.cn/zhigangzeng/) (Exempt from Admission Exam).
+* 2012-2016, B.E. in Electronic Engineering with Highest Honors, Wuhan University of Technology, China.
+* 2014-2016, B.A. in English Literature, Wuhan University, China.
 
-Create content & metadata
+
+Research Interests
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+* Evolvable HardWare (EHW) based on emerging electronic devices
+* Memristor-based neural networks
+* Genetic Programming
 
-**Markdown generator**
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
+Honors & Awards
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+* 2022 <b>Execllent Science & Technology Academic Paper</b>, Shenzhen Association for Science and Technology
+* 2018 <b>Outstanding Graduate Student Leader</b>, HUST
+* 2015 <b>Meritorious Winner</b>, Mathematical Contest in Modeling (MCM), Consortium for Mathematics and Its Applications (COMAP)
+* 2014 <b>Second Prize</b>, The 1st Delta Advanced Automation Contest, Chinese Association of Automation
+* 2012-2014 <b>Merit Student Award (2 times)</b>, WHUT
+* 2012 <b>Prominent Student Award (top 5%)</b>, WHUT
+* 2012 <b>Scholarship for Outstanding Learning Achievement (top 5%)</b>, WHUT
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
+Publications
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<ol type="1">
+		<li><p style="margin:1">
+			 <b>Xingming Shi</b>, Leandro L. Minku and Xin Yao, "Adaptive Memory-Enhanced Time Delay Reservoir and its Memristive Implementation," in <i>IEEE Transactions on Computers</i>, vol. 71, no. 11, pp. 2766-2777, 1 Nov. 2022, doi: 10.1109/TC.2022.3173151.
+		</li>
+		
+		<li><p style="margin:1">
+ <b>Xinming Shi</b>, Leandro L. Minku, and Xin Yao, "A Novel Tree-based Representation for Evolving Analog Circuits and Its Application to Memristor-based Pulse Generation Circuit," <i>Genetic Programming and Evolvable Machines</i>, 23, pp. 453–493, 2022, https://doi.org/10.1007/s10710-022-09436-w
+		</li>
+			
+		<li><p style="margin:1">
+<b>Xinming Shi</b>, Zhigang Zeng, Le Yang and Yi Huang, "Memristor-Based Circuit Design for Neuron With Homeostatic Plasticity," in <i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>, vol. 2, no. 5, pp. 359-370, Oct. 2018, doi: 10.1109/TETCI.2018.2829914.
+		</li>
+  
+  <li><p style="margin:1">
+			Le Yang, Zhigang Zeng, and <b>Xinming Shi</b>, “A memristor-based neural network circuit with synchronous weight adjustment,” <i>Neurocomputing</i>, vol. 363, pp. 114–124, 201.
+		</li>
+		
+		<li><p style="margin:1">
+		<b>Xinming Shi</b>, Jiashi Gao, Leandro L. Minku, and Xin Yao, “Evolving Parsimonious Circuits Through Shapley Value-based Genetic Programming,” in <i>Proceedings of the Genetic and Evolutionary Computation Conference Companion</i>, 2022, pp. 602–605
+		</li>
+		
+		<li><p style="margin:1">
+			<b>Xinming Shi</b>, Jiashi Gao, Leandro L. Minku, James Jian Qiao Yu and Xin Yao, "Second-order Time Delay Reservoir Computing for Nonlinear Time Series Problems," <i>2021 IEEE Symposium Series on Computational Intelligence (SSCI)</i>, Orlando, FL, USA, 2021, pp. 1-8, doi: 10.1109/SSCI50451.2021.9659913.
+		</li>
+      
+   <li><p style="margin:1">
+			<b>Xinming Shi</b> and Zhigang Zeng, "Memristor-Based Neuron Circuit with Adaptive Firing Rate," <i>2018 Eighth International Conference on Information Science and Technology (ICIST)</i>, Cordoba, Granada, and Seville, Spain, 2018, pp. 176-181, doi: 10.1109/ICIST.2018.8426182.
+		</li>
+      
+     <li><p style="margin:1">
+		Jiashi Gao, <b>Xinming Shi</b> and James Jian Qiao Yu, "Attn-CommNet: Coordinated Traffic Lights Control On Large-Scale Network Level," <i>2021 IEEE 33rd International Conference on Tools with Artificial Intelligence (ICTAI)</i>, Washington, DC, USA, 2021, pp. 289-293, doi: 10.1109/ICTAI52525.2021.00048.
+		</li>
+      
+     <li><p style="margin:1">
+			Jiashi Gao, <b>Xinming Shi</b> and James Jian Qiao Yu, "Social-dualcvae: Multimodal Trajectory Forecasting Based on Social Interactions Pattern Aware and Dual Conditional Variational Auto-encoder," <i>arXiv preprint</i>, arXiv:2202.03954.
+		</li>      
+	</ol>
+  
+  
+  
+Patents
+------
+<ol type="1">
+    <li><p style="margin:1">
+		<b>Xinming Shi</b> and Xin Yao, "Automatic design method and device for analog circuit based on tree structure, equipment and medium," Pub Number: CN202110713376.7, Jun. 2021.
+		</li>
+  
+    <li><p style="margin:1">
+		<b>Xinming Shi</b> and Xin Yao, "Automatisches Entwurfsvorrichtung fur eine analoge Schaltung basierend auf enier Baumstruktur," Prioritat: 25.06.2021, Sep. 2022. (German patent)
+		</li>
+  
+		<li><p style="margin:1">
+			<b>Xinming Shi</b>, Zhigang Zeng, “A memristor-based neuron circuit with homeostatic plasticity”, Huazhong University of Science and Techology, Pub Number CN107742153A, Feb. 2018.
+		</li>
+		
+		<li><p style="margin:1">
+ Huazhong Xu, Miaoke Chen, <b>Xinming Shi</b>, Hang Yang, Xiao Peng and Jian Luo, “Concentrated treatment of living oil fumes emissions” Wuhan University of Technology, Pub Number 201530152318.7, May. 2015.
+		</li>
+			
+		<li><p style="margin:1">
+Huazhong Xu, Yixin Wang, <b>Xinming Shi</b>, Xipeng Yu, Xiao Peng, Miaoke Chen, “An emission device of living oil fumes”, Wuhan University of Technology, Pub Number 201520324700.6, May. 2015.
+		</li>
+	</ol>
