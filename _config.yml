@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xinming Shi / Homepage"
+title                    : "Xinming Shi / Home"
 title_separator          : "-"
 name                     : &name "Xinming Shi"
 description              : &description "PhD"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xinming Shi"
   avatar           : "profile2.jpg"
-  bio              : "PhD in School of Computer Science, University of Birmingham"
+  bio              : "Ph.D. in School of Computer Science, University of Birmingham"
   location         : "52.45° N, 1.93° W"
   # employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
