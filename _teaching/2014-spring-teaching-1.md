@@ -9,4 +9,4 @@ location: "Wuhan, China"
 ---
 
 
-Teaching assisant of Opsearch Course.
+Teaching assisant of [Opsearch Course](https://www.icourse163.org/course/HUST-1207167805).
