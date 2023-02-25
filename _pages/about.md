@@ -30,14 +30,14 @@ Research Interests
 ------
 * Evolvable HardWare (EHW) based on emerging electronic devices
 * Memristor-based neural networks
-* Genetic Programming
+* Genetic Programming[SZSTA](http://www.szsta.org/english/introduction/content/post_227682.html)
 
 
 Publications
 ------
 <ol>
 		
-		<li> <b>Xingming Shi</b>, Leandro L. Minku and Xin Yao, "Adaptive Memory-Enhanced Time Delay Reservoir and its Memristive Implementation," in <i>IEEE Transactions on Computers</i>, vol. 71, no. 11, pp. 2766-2777, 1 Nov. 2022, doi: 10.1109/TC.2022.3173151. (<b>Execllent Science & Technology Academic Paper presented by</b> [SZSTA](http://www.szsta.org/english/introduction/content/post_227682.html))</li>
+		<li> <b>Xingming Shi</b>, Leandro L. Minku and Xin Yao, "Adaptive Memory-Enhanced Time Delay Reservoir and its Memristive Implementation," in <i>IEEE Transactions on Computers</i>, vol. 71, no. 11, pp. 2766-2777, 1 Nov. 2022, doi: 10.1109/TC.2022.3173151. (<b>Execllent Science & Technology Academic Paper presented by SZSTA</b>)</li>
 	
 		
 		<li> <b>Xinming Shi</b>, Leandro L. Minku, and Xin Yao, "A Novel Tree-based Representation for Evolving Analog Circuits and Its Application to Memristor-based Pulse Generation Circuit," <i>Genetic Programming and Evolvable Machines</i>, 23, pp. 453–493, 2022, https://doi.org/10.1007/s10710-022-09436-w</li>
@@ -86,7 +86,7 @@ Patents
 
 Honors & Awards
 ------
-* 2022 <b>Execllent Science & Technology Academic Paper</b>, Shenzhen Association for Science and Technology (SZSTA)
+* 2022 <b>Execllent Science & Technology Academic Paper</b>, [Shenzhen Association for Science and Technology (SZSTA)](http://www.szsta.org/english/introduction/content/post_227682.html)
 * 2022 <b>Execllent Student Teaching Assisant Award</b>, SUSTECH
 * 2018 <b>Outstanding Graduate Student Leader</b>, HUST
 * 2015 <b>Meritorious Winner</b>, Mathematical Contest in Modeling (MCM), Consortium for Mathematics and Its Applications (COMAP)
