@@ -37,7 +37,7 @@ Publications
 ------
 <ol>
 		
-		<li> <b>Xingming Shi</b>, Leandro L. Minku and Xin Yao, "Adaptive Memory-Enhanced Time Delay Reservoir and its Memristive Implementation," in <i>IEEE Transactions on Computers</i>, vol. 71, no. 11, pp. 2766-2777, 1 Nov. 2022, doi: 10.1109/TC.2022.3173151.</li> (<b>Execllent Science & Technology Academic Paper presented by SZSTA</b>)
+		<li> <b>Xingming Shi</b>, Leandro L. Minku and Xin Yao, "Adaptive Memory-Enhanced Time Delay Reservoir and its Memristive Implementation," in <i>IEEE Transactions on Computers</i>, vol. 71, no. 11, pp. 2766-2777, 1 Nov. 2022, doi: 10.1109/TC.2022.3173151. (<b>Execllent Science & Technology Academic Paper presented by</b> [SZSTA](http://www.szsta.org/english/introduction/content/post_227682.html))</li>
 	
 		
 		<li> <b>Xinming Shi</b>, Leandro L. Minku, and Xin Yao, "A Novel Tree-based Representation for Evolving Analog Circuits and Its Application to Memristor-based Pulse Generation Circuit," <i>Genetic Programming and Evolvable Machines</i>, 23, pp. 453–493, 2022, https://doi.org/10.1007/s10710-022-09436-w</li>
