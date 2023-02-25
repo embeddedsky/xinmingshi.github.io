@@ -20,7 +20,7 @@ Education Experience
 
 Work Experience
 ------
-* 2022.02--2022.06, Teaching assisant of Evolutionary Computation & Its Application, Southern University of Science and Technology, China. (<b>Best Student Teaching Assisant Award</b>)
+* 2022.02--2022.06, Teaching assisant of Evolutionary Computation & Its Application, Southern University of Science and Technology, China. (<b>Execllent Student Teaching Assisant Award</b>)
 * 2020.12--2021.03, Four-month part-time internship on the project of intellegent complier of brain-like chip, Huawei 2012 Laboratories Central Research Institute, China.
 * 2020.01--2020.06, Teaching assisant of Data Structures & Algorithms, University of Birmingham, UK.
 * 2018.02--2018.06, Teaching assisant of Opsearch, Huazhong University of Science and Technology, China.
