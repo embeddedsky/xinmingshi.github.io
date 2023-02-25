@@ -88,7 +88,7 @@ Patents
 Honors & Awards
 ------
 * 2022 <b>Execllent Science & Technology Academic Paper</b>, Shenzhen Association for Science and Technology
-* 2022 <b>Best Student Teaching Assisant Award</b>, Southern University of Science and Technology
+* 2022 <b>Best Student Teaching Assisant Award</b>, SUSTECH
 * 2018 <b>Outstanding Graduate Student Leader</b>, HUST
 * 2015 <b>Meritorious Winner</b>, Mathematical Contest in Modeling (MCM), Consortium for Mathematics and Its Applications (COMAP)
 * 2014 <b>Second Prize</b>, The 1st Delta Advanced Automation Contest, Chinese Association of Automation
