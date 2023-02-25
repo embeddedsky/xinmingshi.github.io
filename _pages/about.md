@@ -9,21 +9,20 @@ redirect_from:
 ---
 Xinming Shi received the B.E. degree in electronic engineering from Wuhan University of Technology, Wuhan, China, in 2016.  She received the M.E. degree in  School of Artificial Intelligence & Automation from Huazhong University of Science and Technology, Wuhan, China, in 2019. She is currently pursuing her Ph.D. degree in Computer Science at the University of Birmingham, U.K., in collaboration with Southern University of Science and Technology, Shenzhen, China. Her research interests mainly include Evolvable HardWare (EHW) based on emerging electronic devices, memristor-based neural networks, and Genetic Programming (GP). 
 
-Education & Work Experience
+Education Experience
 ------
 * 2019-Present, pursuing Ph.D in in Computer Science, University of Birmingham, UK, Supervisor: [Prof. Xin Yao](https://www.cs.bham.ac.uk/~xin/)
-<ul>
-	<li>2022.2-2022.06, Teaching assisant of Evolutionary Computation & Its Application, Southern University of Science and Technology, China.</li>
-	<li>2020.12-2021.03, Four-month internship in Huawei 2012 Laboratories Central Research Institute, project: intellegent complier of brain-like chip.</li>
-	<li>2020.01-2020.06, Teaching assisant of Data Structures & Algorithms, University of Birmingham, UK.</li>
-</ul>
-
 * 2016-2019, M.E. in Control Science and Engineering, Huazhong University of Science and Technology, China, Supervisor: [Prof. Zhigang Zeng](http://aia.hust.edu.cn/zhigangzeng/). (<b>Exempt from Admission Exam</b>)
-<ul>
-	<li>2018.02-2018.06, Teaching assisant of Opsearch, Huazhong University of Science and Technology, China.</li>
-</ul>
 * 2012-2016, B.E. in Electronic Engineering, Wuhan University of Technology, China. ( <b>Graduation with Highest Honors</b>)
 * 2014-2016, B.A. in English Literature, Wuhan University, China.
+
+
+Work Experience
+------
+* 2022.2-2022.06, Teaching assisant of Evolutionary Computation & Its Application, Southern University of Science and Technology, China. (<b>Best Student Teaching Assisant Award</b>)
+* 2020.12-2021.03, Four-month part-time internship on the project of intellegent complier of brain-like chip, Huawei 2012 Laboratories Central Research Institute, China.
+* 2020.01-2020.06, Teaching assisant of Data Structures & Algorithms, University of Birmingham, UK.
+* 2018.02-2018.06, Teaching assisant of Opsearch, Huazhong University of Science and Technology, China.
 
 
 Research Interests
@@ -33,15 +32,6 @@ Research Interests
 * Genetic Programming
 
 
-Honors & Awards
-------
-* 2022 <b>Execllent Science & Technology Academic Paper</b>, Shenzhen Association for Science and Technology
-* 2018 <b>Outstanding Graduate Student Leader</b>, HUST
-* 2015 <b>Meritorious Winner</b>, Mathematical Contest in Modeling (MCM), Consortium for Mathematics and Its Applications (COMAP)
-* 2014 <b>Second Prize</b>, The 1st Delta Advanced Automation Contest, Chinese Association of Automation
-* 2012-2014 <b>Merit Student Award (2 times)</b>, WHUT
-* 2012 <b>Prominent Student Award (top 5%)</b>, WHUT
-* 2012 <b>Scholarship for Outstanding Learning Achievement (top 5%)</b>, WHUT
 
 
 Publications
@@ -78,23 +68,31 @@ Publications
 
 Patents
 ------
-<ol type="1">
-    <li><p style="margin:1">
-		<b>Xinming Shi</b> and Xin Yao, "Automatic design method and device for analog circuit based on tree structure, equipment and medium," Pub Number: CN202110713376.7, Jun. 2021.
+<ol>
+		<li><b>Xinming Shi</b> and Xin Yao, "Automatic design method and device for analog circuit based on tree structure, equipment and medium," Pub Number: CN202110713376.7, Jun. 2021.</li>
 	
   
-    <li><p style="margin:1">
-		<b>Xinming Shi</b> and Xin Yao, "Automatisches Entwurfsvorrichtung fur eine analoge Schaltung basierend auf enier Baumstruktur," Prioritat: 25.06.2021, Sep. 2022. (German patent)
+    		<li><b>Xinming Shi</b> and Xin Yao, "Automatisches Entwurfsvorrichtung fur eine analoge Schaltung basierend auf enier Baumstruktur," Prioritat: 25.06.2021, Sep. 2022. (German patent)</li>
 	
   
-		<li><p style="margin:1">
-			<b>Xinming Shi</b>, Zhigang Zeng, “A memristor-based neuron circuit with homeostatic plasticity”, Huazhong University of Science and Techology, Pub Number CN107742153A, Feb. 2018.
+		<li><b>Xinming Shi</b>, Zhigang Zeng, “A memristor-based neuron circuit with homeostatic plasticity”, Huazhong University of Science and Techology, Pub Number CN107742153A, Feb. 2018.</li>
 		
 		
-		<li><p style="margin:1">
- Huazhong Xu, Miaoke Chen, <b>Xinming Shi</b>, Hang Yang, Xiao Peng and Jian Luo, “Concentrated treatment of living oil fumes emissions” Wuhan University of Technology, Pub Number 201530152318.7, May. 2015.
+		<li>Huazhong Xu, Miaoke Chen, <b>Xinming Shi</b>, Hang Yang, Xiao Peng and Jian Luo, “Concentrated treatment of living oil fumes emissions” Wuhan University of Technology, Pub Number 201530152318.7, May. 2015.</li>
 	
 			
-		<li><p style="margin:1">
-Huazhong Xu, Yixin Wang, <b>Xinming Shi</b>, Xipeng Yu, Xiao Peng, Miaoke Chen, “An emission device of living oil fumes”, Wuhan University of Technology, Pub Number 201520324700.6, May. 2015.
+		<li>Huazhong Xu, Yixin Wang, <b>Xinming Shi</b>, Xipeng Yu, Xiao Peng, Miaoke Chen, “An emission device of living oil fumes”, Wuhan University of Technology, Pub Number 201520324700.6, May. 2015.</li>
+</ol> 
+
+
+Honors & Awards
+------
+* 2022 <b>Execllent Science & Technology Academic Paper</b>, Shenzhen Association for Science and Technology
+* 2022 <b>Best Student Teaching Assisant Award</b>, Southern University of Science and Technology
+* 2018 <b>Outstanding Graduate Student Leader</b>, HUST
+* 2015 <b>Meritorious Winner</b>, Mathematical Contest in Modeling (MCM), Consortium for Mathematics and Its Applications (COMAP)
+* 2014 <b>Second Prize</b>, The 1st Delta Advanced Automation Contest, Chinese Association of Automation
+* 2012-2014 <b>Merit Student Award (2 times)</b>, WHUT
+* 2012 <b>Prominent Student Award (top 5%)</b>, WHUT
+* 2012 <b>Scholarship for Outstanding Learning Achievement (top 5%)</b>, WHUT
 
