@@ -11,10 +11,18 @@ Xinming Shi received the B.E. degree in electronic engineering from Wuhan Univer
 
 Education & Work Experience
 ------
-* Present, pursuing Ph.D in in Computer Science, University of Birmingham, UK, Supervisor: [Prof. Xin Yao](https://www.cs.bham.ac.uk/~xin/)
-* 2020, 4-month internship in Huawei 2012 Laboratories Central Research Institute, project: intellegent complier of brain-like chip.
-* 2016-2019, M.E. in Control Science and Engineering, Huazhong University of Science and Technology, China, Supervisor: [Prof. Zhigang Zeng](http://aia.hust.edu.cn/zhigangzeng/) (<b>Exempt from Admission Exam</b>).
-* 2012-2016, B.E. in Electronic Engineering with <b>Highest Honors</b>, Wuhan University of Technology, China.
+* 2019-Present, pursuing Ph.D in in Computer Science, University of Birmingham, UK, Supervisor: [Prof. Xin Yao](https://www.cs.bham.ac.uk/~xin/)
+<ul>
+	<li>2022.2-2022.06, Teaching assisant of Evolutionary Computation & Its Application, Southern University of Science and Technology, China.</li>
+	<li>2020.12-2021.03, Four-month internship in Huawei 2012 Laboratories Central Research Institute, project: intellegent complier of brain-like chip.</li>
+	<li>2020.01-2020.06, Teaching assisant of Data Structures & Algorithms, University of Birmingham, UK.</li>
+</ul>
+
+* 2016-2019, M.E. in Control Science and Engineering, Huazhong University of Science and Technology, China, Supervisor: [Prof. Zhigang Zeng](http://aia.hust.edu.cn/zhigangzeng/). (<b>Exempt from Admission Exam</b>)
+<ul>
+	<li>2018.02-2018.06, Teaching assisant of Opsearch, Huazhong University of Science and Technology, China.</li>
+</ul>
+* 2012-2016, B.E. in Electronic Engineering, Wuhan University of Technology, China. ( <b>Graduation with Highest Honors</b>)
 * 2014-2016, B.A. in English Literature, Wuhan University, China.
 
 
@@ -44,20 +52,19 @@ Publications
 	
 		
 		<li> <b>Xinming Shi</b>, Leandro L. Minku, and Xin Yao, "A Novel Tree-based Representation for Evolving Analog Circuits and Its Application to Memristor-based Pulse Generation Circuit," <i>Genetic Programming and Evolvable Machines</i>, 23, pp. 453–493, 2022, https://doi.org/10.1007/s10710-022-09436-w</li>
-	
-			
-		<li><b>Xinming Shi</b>, Zhigang Zeng, Le Yang and Yi Huang, "Memristor-Based Circuit Design for Neuron With Homeostatic Plasticity," in <i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>, vol. 2, no. 5, pp. 359-370, Oct. 2018, doi: 10.1109/TETCI.2018.2829914.</li>
-		
-  
-  		<li>Le Yang, Zhigang Zeng, and <b>Xinming Shi</b>, “A memristor-based neural network circuit with synchronous weight adjustment,” <i>Neurocomputing</i>, vol. 363, pp. 114–124, 201.</li>
 		
 		
 		<li><b>Xinming Shi</b>, Jiashi Gao, Leandro L. Minku, and Xin Yao, “Evolving Parsimonious Circuits Through Shapley Value-based Genetic Programming,” in <i>Proceedings of the Genetic and Evolutionary Computation Conference Companion</i>, 2022, pp. 602–605.</li>
 		
 		
 		<li><b>Xinming Shi</b>, Jiashi Gao, Leandro L. Minku, James Jian Qiao Yu and Xin Yao, "Second-order Time Delay Reservoir Computing for Nonlinear Time Series Problems," <i>2021 IEEE Symposium Series on Computational Intelligence (SSCI)</i>, Orlando, FL, USA, 2021, pp. 1-8, doi: 10.1109/SSCI50451.2021.9659913.</li>
+	
+	<li><b>Xinming Shi</b>, Zhigang Zeng, Le Yang and Yi Huang, "Memristor-Based Circuit Design for Neuron With Homeostatic Plasticity," in <i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>, vol. 2, no. 5, pp. 359-370, Oct. 2018, doi: 10.1109/TETCI.2018.2829914.</li>
 		
-      
+  
+  		<li>Le Yang, Zhigang Zeng, and <b>Xinming Shi</b>, “A memristor-based neural network circuit with synchronous weight adjustment,” <i>Neurocomputing</i>, vol. 363, pp. 114–124, 201.</li>
+		
+
 	   	<li><b>Xinming Shi</b> and Zhigang Zeng, "Memristor-Based Neuron Circuit with Adaptive Firing Rate," <i>2018 Eighth International Conference on Information Science and Technology (ICIST)</i>, Cordoba, Granada, and Seville, Spain, 2018, pp. 176-181, doi: 10.1109/ICIST.2018.8426182.</li>
 		
       
