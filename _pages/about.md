@@ -35,7 +35,7 @@ Research Interests
 
 Publications
 ------
-<ol>
+<ol reversed>
 		
 		<li> <b>Xingming Shi</b>, Leandro L. Minku and Xin Yao, "Adaptive Memory-Enhanced Time Delay Reservoir and its Memristive Implementation," in <i>IEEE Transactions on Computers</i>, vol. 71, no. 11, pp. 2766-2777, 1 Nov. 2022, doi: 10.1109/TC.2022.3173151. (<b>Execllent Science & Technology Academic Paper presented by SZSTA</b>)</li>
 	
@@ -67,7 +67,7 @@ Publications
 
 Patents
 ------
-<ol>
+<ol reversed>
 		<li><b>Xinming Shi</b> and Xin Yao, "Automatic design method and device for analog circuit based on tree structure, equipment and medium," Pub Number: CN202110713376.7, Jun. 2021.</li>
 	
   
