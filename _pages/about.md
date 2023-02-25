@@ -9,20 +9,21 @@ redirect_from:
 ---
 Xinming Shi received the B.E. degree in electronic engineering from Wuhan University of Technology, Wuhan, China, in 2016.  She received the M.E. degree in  School of Artificial Intelligence & Automation from Huazhong University of Science and Technology, Wuhan, China, in 2019. She is currently pursuing her Ph.D. degree in Computer Science at the University of Birmingham, U.K., in collaboration with Southern University of Science and Technology, Shenzhen, China. Her research interests mainly include Evolvable HardWare (EHW) based on emerging electronic devices, memristor-based neural networks, and Genetic Programming (GP). 
 
+
 Education Experience
 ------
-* 2019-Present, pursuing Ph.D in in Computer Science, University of Birmingham, UK, Supervisor: [Prof. Xin Yao](https://www.cs.bham.ac.uk/~xin/)
-* 2016-2019, M.E. in Control Science and Engineering, Huazhong University of Science and Technology, China, Supervisor: [Prof. Zhigang Zeng](http://aia.hust.edu.cn/zhigangzeng/). (<b>Exempt from Admission Exam</b>)
-* 2012-2016, B.E. in Electronic Engineering, Wuhan University of Technology, China. ( <b>Graduation with Highest Honors</b>)
-* 2014-2016, B.A. in English Literature, Wuhan University, China.
+* 2019--Present, pursuing Ph.D in in Computer Science, University of Birmingham, UK, Supervisor: [Prof. Xin Yao](https://www.cs.bham.ac.uk/~xin/)
+* 2016--2019, M.E. in Control Science and Engineering, Huazhong University of Science and Technology, China, Supervisor: [Prof. Zhigang Zeng](http://aia.hust.edu.cn/zhigangzeng/). (<b>Exempt from Admission Exam</b>)
+* 2012--2016, B.E. in Electronic Engineering, Wuhan University of Technology, China. ( <b>Graduation with Highest Honors</b>)
+* 2014--2016, B.A. in English Literature, Wuhan University, China.
 
 
 Work Experience
 ------
-* 2022.2-2022.06, Teaching assisant of Evolutionary Computation & Its Application, Southern University of Science and Technology, China. (<b>Best Student Teaching Assisant Award</b>)
-* 2020.12-2021.03, Four-month part-time internship on the project of intellegent complier of brain-like chip, Huawei 2012 Laboratories Central Research Institute, China.
-* 2020.01-2020.06, Teaching assisant of Data Structures & Algorithms, University of Birmingham, UK.
-* 2018.02-2018.06, Teaching assisant of Opsearch, Huazhong University of Science and Technology, China.
+* 2022.02--2022.06, Teaching assisant of Evolutionary Computation & Its Application, Southern University of Science and Technology, China. (<b>Best Student Teaching Assisant Award</b>)
+* 2020.12--2021.03, Four-month part-time internship on the project of intellegent complier of brain-like chip, Huawei 2012 Laboratories Central Research Institute, China.
+* 2020.01--2020.06, Teaching assisant of Data Structures & Algorithms, University of Birmingham, UK.
+* 2018.02--2018.06, Teaching assisant of Opsearch, Huazhong University of Science and Technology, China.
 
 
 Research Interests
@@ -30,8 +31,6 @@ Research Interests
 * Evolvable HardWare (EHW) based on emerging electronic devices
 * Memristor-based neural networks
 * Genetic Programming
-
-
 
 
 Publications
@@ -75,7 +74,7 @@ Patents
     		<li><b>Xinming Shi</b> and Xin Yao, "Automatisches Entwurfsvorrichtung fur eine analoge Schaltung basierend auf enier Baumstruktur," Prioritat: 25.06.2021, Sep. 2022. (German patent)</li>
 	
   
-		<li><b>Xinming Shi</b>, Zhigang Zeng, “A memristor-based neuron circuit with homeostatic plasticity”, Huazhong University of Science and Techology, Pub Number CN107742153A, Feb. 2018.</li>
+		<li><b>Xinming Shi</b> and Zhigang Zeng, “A memristor-based neuron circuit with homeostatic plasticity”, Huazhong University of Science and Techology, Pub Number CN107742153A, Feb. 2018.</li>
 		
 		
 		<li>Huazhong Xu, Miaoke Chen, <b>Xinming Shi</b>, Hang Yang, Xiao Peng and Jian Luo, “Concentrated treatment of living oil fumes emissions” Wuhan University of Technology, Pub Number 201530152318.7, May. 2015.</li>
