@@ -30,7 +30,7 @@ Research Interests
 ------
 * Evolvable HardWare (EHW) based on emerging electronic devices
 * Memristor-based neural networks
-* Genetic Programming[SZSTA](http://www.szsta.org/english/introduction/content/post_227682.html)
+* Genetic Programming
 
 
 Publications
