@@ -9,5 +9,5 @@ citation: '<b>Xingming Shi</b>, Leandro L. Minku and Xin Yao, "Adaptive Memory-E
 ---
  
 
-[Download paper here](https://arxiv.org/pdf/2202.03954)
+[Download paper here](https://ieeexplore.ieee.org/abstract/document/9773007)
 
