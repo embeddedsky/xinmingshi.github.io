@@ -2,7 +2,7 @@
 title: "Data Structures & Algorithms"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2015-spring-teaching-2
 venue: "University of Birmingham, School of Computer Science"
 date: 2020-01-01
 location: "Birmingham, UK"
