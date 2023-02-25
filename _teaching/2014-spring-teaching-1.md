@@ -9,4 +9,4 @@ location: "Wuhan, China"
 ---
 
 
-Teaching assisant of Opsearch Course
+Teaching assisant of Opsearch Course.
