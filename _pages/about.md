@@ -12,8 +12,8 @@ Xinming Shi received the B.E. degree in electronic engineering from Wuhan Univer
 
 Education Experience
 ------
-* 2019--Present, pursuing Ph.D in in Computer Science, University of Birmingham, UK, Supervisor: [Prof. Xin Yao](https://www.cs.bham.ac.uk/~xin/)
-* 2016--2019, M.E. in Control Science and Engineering, Huazhong University of Science and Technology, China, Supervisor: [Prof. Zhigang Zeng](http://aia.hust.edu.cn/zhigangzeng/). (<b>Exempt from Admission Exam</b>)
+* 2019--Present, pursuing Ph.D in in Computer Science, University of Birmingham, UK, Supervisor: [Leandro L. Minku](https://www.cs.bham.ac.uk/~minkull/index.html) and [Xin Yao](https://www.cs.bham.ac.uk/~xin/)
+* 2016--2019, M.E. in Control Science and Engineering, Huazhong University of Science and Technology, China, Supervisor: [Zhigang Zeng](http://aia.hust.edu.cn/zhigangzeng/). (<b>Exempt from Admission Exam</b>)
 * 2012--2016, B.E. in Electronic Engineering, Wuhan University of Technology, China. ( <b>Graduation with Highest Honors</b>)
 * 2014--2016, B.A. in English Literature, Wuhan University, China.
 
