@@ -9,4 +9,4 @@ location: "China, Shenzhen"
 ---
 
 
-Teaching assisant of Evolutionary Computation & Its Applications
+Teaching assisant of [Evolutionary Computation & Its Applications](https://github.com/SUSTech-EC2022).
