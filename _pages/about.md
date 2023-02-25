@@ -90,7 +90,7 @@ Honors & Awards
 * 2022 <b>Execllent Student Teaching Assisant Award</b>, SUSTECH
 * 2018 <b>Outstanding Graduate Student Leader</b>, HUST
 * 2015 <b>Meritorious Winner</b>, Mathematical Contest in Modeling (MCM), [Consortium for Mathematics and Its Applications (COMAP)](https://www.comap.com/)
-* 2014 <b>Second Prize</b>, The 1st Delta Advanced Automation Contest, Chinese Association of Automation
+* 2014 <b>Second Prize</b>, [The 1st Delta Advanced Automation Contest](https://www.deltagreentech.com.cn/en-US/index), Chinese Association of Automation
 * 2012-2014 <b>Merit Student Award (2 times)</b>, WHUT
 * 2012 <b>Prominent Student Award (top 5%)</b>, WHUT
 * 2012 <b>Scholarship for Outstanding Learning Achievement (top 5%)</b>, WHUT
