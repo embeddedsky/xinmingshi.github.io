@@ -98,4 +98,4 @@ Honors & Awards
 
 Activities
 ------
-* 2021--2022 Member of the Conference Activities and Communications subcommittee in IEEE Computational Intelligence Society (CIS)
+* 2021--2022 Member of the [Conference Activities and Communications subcommittee in IEEE Computational Intelligence Society (CIS)]( https://cis.ieee.org/conferences/welcome-conferences/conferences-commitee/conference-activities-and-communications).
