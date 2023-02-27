@@ -10,4 +10,4 @@ citation: 'Le Yang, Zhigang Zeng, and <b>Xinming Shi</b>, “A memristor-based n
 ---
  
 
-[Download paper here](https://www.sciencedirect.com/science/article/pii/S0925231219309312)
+[Download paper here](https://github.com/embeddedsky/xinmingshi.github.io/raw/master/files/paper3.pdf)
