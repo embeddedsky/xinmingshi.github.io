@@ -9,5 +9,5 @@ citation: 'Jiashi Gao, <b>Xinming Shi</b> and James Jian Qiao Yu, "Social-dualcv
 ---
  
 
-[Download paper here](https://arxiv.org/pdf/2202.03954)
+[Download paper here](https://github.com/embeddedsky/xinmingshi.github.io/raw/master/files/paper6.pdf)
 
