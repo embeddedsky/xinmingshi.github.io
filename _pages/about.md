@@ -96,6 +96,10 @@ Honors & Awards
 * 2012 <b>Scholarship for Outstanding Learning Achievement (top 5%)</b>, WHUT
 
 
-Activities
+Professional Services
 ------
-* 2021--2022 Member of the [Conference Activities and Communications subcommittee in IEEE Computational Intelligence Society (CIS)]( https://cis.ieee.org/conferences/welcome-conferences/conferences-commitee/conference-activities-and-communications).
+<b>Memberships</b>
+* 2022--Now: SIGEVO Membership
+
+<b>Committee Services</b>
+* 2021--2022 Committee Member, [Conference Activities and Communications subcommittee in IEEE Computational Intelligence Society (CIS)]( https://cis.ieee.org/conferences/welcome-conferences/conferences-commitee/conference-activities-and-communications).
