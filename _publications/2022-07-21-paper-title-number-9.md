@@ -9,5 +9,5 @@ citation: '<b>Xinming Shi</b>, Leandro L. Minku, and Xin Yao, "A Novel Tree-base
 ---
  
 
-[Download paper here](https://doi.org/10.1007/s10710-022-09436-w)
+[Download paper here](https://github.com/embeddedsky/xinmingshi.github.io/raw/master/files/paper9.pdf)
 
