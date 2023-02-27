@@ -102,4 +102,4 @@ Professional Services
 * 2022--Now: SIGEVO Membership
 
 <b>Committee Services</b>
-* 2021--2022 Committee Member, [Conference Activities and Communications subcommittee in IEEE Computational Intelligence Society (CIS)]( https://cis.ieee.org/conferences/welcome-conferences/conferences-commitee/conference-activities-and-communications).
+* 2021--2022: Committee Member, [Conference Activities and Communications subcommittee in IEEE Computational Intelligence Society (CIS)]( https://cis.ieee.org/conferences/welcome-conferences/conferences-commitee/conference-activities-and-communications).
