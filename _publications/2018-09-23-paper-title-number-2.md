@@ -9,5 +9,5 @@ citation: '<b>Xinming Shi</b>, Zhigang Zeng, Le Yang and Yi Huang, "Memristor-Ba
 ---
  
 
-[Download paper here](https://ieeexplore.ieee.org/abstract/document/8471013)
+[Download paper here](https://github.com/embeddedsky/xinmingshi.github.io/raw/master/files/paper2.pdf)
 
