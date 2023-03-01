@@ -12,16 +12,16 @@ Xinming Shi received the B.E. degree in electronic engineering from Wuhan Univer
 
 Education Experience
 ------
-* 2019--Present, pursuing Ph.D in in Computer Science, University of Birmingham, UK, Supervisor: [Leandro L. Minku](https://www.cs.bham.ac.uk/~minkull/index.html) and [Xin Yao](https://www.cs.bham.ac.uk/~xin/)
-* 2016--2019, M.E. in Control Science and Engineering, Huazhong University of Science and Technology, China, Supervisor: [Zhigang Zeng](http://aia.hust.edu.cn/zhigangzeng/). (<b>Exempt from Admission Exam</b>)
+* 2019--Present, pursuing Ph.D in in Computer Science, University of Birmingham, UK, Supervisor: [Dr. Leandro L. Minku](https://www.cs.bham.ac.uk/~minkull/index.html) and [Prof. Xin Yao](https://www.cs.bham.ac.uk/~xin/)
+* 2016--2019, M.E. in Control Science and Engineering, Huazhong University of Science and Technology, China, Supervisor: [Prof. Zhigang Zeng](http://aia.hust.edu.cn/zhigangzeng/). (<b>Exempt from Admission Exam</b>)
 * 2012--2016, B.E. in Electronic Engineering, Wuhan University of Technology, China. ( <b>Graduation with Highest Honors</b>)
 * 2014--2016, B.A. in English Literature, Wuhan University, China.
 
 
 Work Experience
 ------
-* 2022.02--2022.06, Teaching assisant of Evolutionary Computation & Its Application, Southern University of Science and Technology, China. (<b>Execllent Student Teaching Assisant Award</b>)
-* 2020.12--2021.03, Four-month part-time internship on the project of intellegent complier of brain-like chip, Huawei 2012 Laboratories Central Research Institute, China.
+* 2022.02--2022.06, Teaching assisant of Evolutionary Computation & Its Application, Southern University of Science and Technology, China. (<b>Execllent Student Teaching Assistant Award</b>)
+* 2020.12--2021.03, Four-month part-time internship on the project of intelligent complier of brain-like chip, Huawei 2012 Laboratories Central Research Institute, China.
 * 2020.01--2020.06, Teaching assisant of Data Structures & Algorithms, University of Birmingham, UK.
 * 2018.02--2018.06, Teaching assisant of Opsearch, Huazhong University of Science and Technology, China.
 
@@ -87,7 +87,7 @@ Patents
 Honors & Awards
 ------
 * 2022 <b>Execllent Science & Technology Academic Paper</b>, [Shenzhen Association for Science and Technology (SZSTA)](http://www.szsta.org/english/introduction/content/post_227682.html)
-* 2022 <b>Execllent Student Teaching Assisant Award</b>, SUSTECH
+* 2022 <b>Execllent Student Teaching Assistant Award</b>, SUSTECH
 * 2018 <b>Outstanding Graduate Student Leader</b>, HUST
 * 2015 <b>Meritorious Winner</b>, Mathematical Contest in Modeling (MCM), [Consortium for Mathematics and Its Applications (COMAP)](https://www.comap.com/)
 * 2014 <b>Second Prize</b>, [The 1st Delta Advanced Automation Contest](https://www.deltagreentech.com.cn/en-US/index), Chinese Association of Automation
