@@ -114,3 +114,6 @@ Professional Services
 
 <b>Committee Services</b>
 * 2021--2023: Committee Member, [Conference Activities and Communications Subcommittee in IEEE Computational Intelligence Society (CIS)]( https://cis.ieee.org/conferences/welcome-conferences/conferences-commitee/conference-activities-and-communications).
+
+<b>Reviews</b>
+* PC member of LA-CCI 2023
