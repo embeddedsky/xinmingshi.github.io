@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Xinming Shi received the B.E. degree in electronic engineering from Wuhan University of Technology, Wuhan, China, in 2016.  She received the M.E. degree in  School of Artificial Intelligence & Automation from Huazhong University of Science and Technology, Wuhan, China, in 2019. She is currently pursuing her Ph.D. degree in Computer Science at the University of Birmingham, U.K., in collaboration with Southern University of Science and Technology, Shenzhen, China. Her research interests mainly include Evolvable HardWare (EHW) based on emerging electronic devices, memristor-based neural networks, and Genetic Programming (GP). 
+Xinming Shi received the B.E. degree in electronic engineering from Wuhan University of Technology, Wuhan, China, in 2016.  She received the M.E. degree in  School of Artificial Intelligence & Automation from Huazhong University of Science and Technology, Wuhan, China, in 2019. She is currently pursuing her Ph.D. degree in Computer Science at the University of Birmingham, U.K., in collaboration with Southern University of Science and Technology, Shenzhen, China. Her research interests mainly include Evolvable HardWare (EHW) based on memristors, brain-inspired computing, and Genetic Programming (GP). 
 
 
 Education Experience
 ------
-* 2019--Present, Ph.D in in Computer Science, University of Birmingham, UK, Supervisor: [Dr. Leandro L. Minku](https://www.cs.bham.ac.uk/~minkull/index.html) and [Prof. Xin Yao](https://www.cs.bham.ac.uk/~xin/)
-* 2023.09--Present, Visiting Ph.D in in Computer Science, Victoria University of Wellington, NZ, Supervisor: [Prof. Mengjie Zhang](https://homepages.ecs.vuw.ac.nz/~mengjie/) and [Prof. Bing Xue](https://people.wgtn.ac.nz/bing.xue)
+* 2019--Present, Ph.D in in Computer Science, University of Birmingham, UK, Supervisors: [Dr. Leandro L. Minku](https://www.cs.bham.ac.uk/~minkull/index.html) and [Prof. Xin Yao](https://www.cs.bham.ac.uk/~xin/)
+* 2023.09--Present, Visiting Ph.D in in Computer Science, Victoria University of Wellington, NZ, Supervisors: [Prof. Mengjie Zhang](https://homepages.ecs.vuw.ac.nz/~mengjie/) and [Prof. Bing Xue](https://people.wgtn.ac.nz/bing.xue)
 * 2016--2019, M.E. in Control Science and Engineering, Huazhong University of Science and Technology, China, Supervisor: [Prof. Zhigang Zeng](http://aia.hust.edu.cn/zhigangzeng/). (<b>Exempt from Admission Exam</b>)
 * 2012--2016, B.E. in Electronic Engineering, Wuhan University of Technology, China. ( <b>Graduation with Highest Honors</b>)
 * 2014--2016, B.A. in English Literature, Wuhan University, China.
