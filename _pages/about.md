@@ -12,7 +12,8 @@ Xinming Shi received the B.E. degree in electronic engineering from Wuhan Univer
 
 Education Experience
 ------
-* 2019--Present, pursuing Ph.D in in Computer Science, University of Birmingham, UK, Supervisor: [Dr. Leandro L. Minku](https://www.cs.bham.ac.uk/~minkull/index.html) and [Prof. Xin Yao](https://www.cs.bham.ac.uk/~xin/)
+* 2019--Present, Ph.D in in Computer Science, University of Birmingham, UK, Supervisor: [Dr. Leandro L. Minku](https://www.cs.bham.ac.uk/~minkull/index.html) and [Prof. Xin Yao](https://www.cs.bham.ac.uk/~xin/)
+* 2023.09--Present, Visiting Ph.D in in Computer Science, Victoria University of Wellington, NZ, Supervisor: [Prof. Mengjie Zhang](https://homepages.ecs.vuw.ac.nz/~mengjie/) and [Prof. Bing Xue](https://people.wgtn.ac.nz/bing.xue)
 * 2016--2019, M.E. in Control Science and Engineering, Huazhong University of Science and Technology, China, Supervisor: [Prof. Zhigang Zeng](http://aia.hust.edu.cn/zhigangzeng/). (<b>Exempt from Admission Exam</b>)
 * 2012--2016, B.E. in Electronic Engineering, Wuhan University of Technology, China. ( <b>Graduation with Highest Honors</b>)
 * 2014--2016, B.A. in English Literature, Wuhan University, China.
@@ -116,4 +117,5 @@ Professional Services
 * 2021--2023: Committee Member, [Conference Activities and Communications Subcommittee in IEEE Computational Intelligence Society (CIS)]( https://cis.ieee.org/conferences/welcome-conferences/conferences-commitee/conference-activities-and-communications).
 
 <b>Reviews</b>
+* Reviewer of TNNLS
 * PC member of LA-CCI 2023
