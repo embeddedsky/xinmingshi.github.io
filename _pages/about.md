@@ -45,6 +45,8 @@ Publications
 	
 		
 		<li> <b>Xinming Shi</b>, Leandro L. Minku, and Xin Yao, "A Novel Tree-based Representation for Evolving Analog Circuits and Its Application to Memristor-based Pulse Generation Circuit," <i>Genetic Programming and Evolvable Machines</i>, 23, pp. 453–493, 2022, https://doi.org/10.1007/s10710-022-09436-w</li>
+
+ 		 <li><b>Xinming Shi</b>, Zhigang Zeng, Le Yang and Yi Huang, "Memristor-Based Circuit Design for Neuron With Homeostatic Plasticity," in <i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>, vol. 2, no. 5, pp. 359-370, Oct. 2018, doi: 10.1109/TETCI.2018.2829914.</li>
 	
 	
 		<li> Zilu Wang, <b>Xingming Shi</b>, and Xin Yao, "A Brain-Inspired Hardware Architecture for Evolutionary Algorithms based on Memristive Arrays," in <i>ACM Transactions on Design Automation of Electronic Systems</i>, doi: 10.1145/3598421.</li>	
@@ -57,8 +59,8 @@ Publications
 		
 		
 		<li><b>Xinming Shi</b>, Jiashi Gao, Leandro L. Minku, James Jian Qiao Yu and Xin Yao, "Second-order Time Delay Reservoir Computing for Nonlinear Time Series Problems," <i>2021 IEEE Symposium Series on Computational Intelligence (SSCI)</i>, Orlando, FL, USA, 2021, pp. 1-8, doi: 10.1109/SSCI50451.2021.9659913.</li>
-	
-	<li><b>Xinming Shi</b>, Zhigang Zeng, Le Yang and Yi Huang, "Memristor-Based Circuit Design for Neuron With Homeostatic Plasticity," in <i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>, vol. 2, no. 5, pp. 359-370, Oct. 2018, doi: 10.1109/TETCI.2018.2829914.</li>
+
+  		<li><b>Xinming Shi</b> and Zilu Wang, "Memristor Modeling with Homeostatic Threshold Variation for Simulation and Application," <i>2023  International Conference on Neuromorphic Computing (ICNC)</i>, Wuhan, China, 2024, pp. 1-10, Accepted.</li>
 		
   
   		<li>Le Yang, Zhigang Zeng, and <b>Xinming Shi</b>, “A memristor-based neural network circuit with synchronous weight adjustment,” <i>Neurocomputing</i>, vol. 363, pp. 114–124, 201.</li>
@@ -96,7 +98,7 @@ Patents
 
 Honors & Awards
 ------
-* 2023 <b>IEEE CIS Graduate Student Research Grants</b>, [IEEE Computational Intelligence Society (CIS)](https://cis.ieee.org/activities/educational-activites/research-grants?highlight=WyJncmFudCJd)
+* 2023 <b>IEEE CIS Graduate Student Research Grants</b>, PI (USD 4,000), [IEEE Computational Intelligence Society (CIS)](https://cis.ieee.org/activities/educational-activites/research-grants?highlight=WyJncmFudCJd)
 * 2022 <b>Execllent Science & Technology Academic Paper</b>, [Shenzhen Association for Science and Technology (SZSTA)](http://www.szsta.org/english/introduction/content/post_227682.html)
 * 2022 <b>Execllent Student Teaching Assistant Award</b>, SUSTECH
 * 2018 <b>Outstanding Graduate Student Leader</b>, HUST
@@ -118,4 +120,7 @@ Professional Services
 
 <b>Reviews</b>
 * Reviewer of TNNLS
+* Reviewer of TCDS
+* Reviewer of TETCI
+* Reviewer of IJCNN
 * PC member of LA-CCI 2023
