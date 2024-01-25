@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Xinming Shi received the B.E. degree in electronic engineering from Wuhan University of Technology, Wuhan, China, in 2016.  She received the M.E. degree in  School of Artificial Intelligence & Automation from Huazhong University of Science and Technology, Wuhan, China, in 2019. She is currently pursuing her Ph.D. degree in Computer Science at the University of Birmingham, U.K., in collaboration with Southern University of Science and Technology, Shenzhen, China. Her research interests mainly include Evolvable HardWare (EHW) based on memristors, brain-inspired computing, and Genetic Programming (GP). 
+Xinming Shi received the B.E. degree in electronic engineering from Wuhan University of Technology and B.A. degree in English literature from from Wuhan University, Wuhan, China, in 2016.  She received the M.E. degree in  School of Artificial Intelligence & Automation from Huazhong University of Science and Technology, Wuhan, China, in 2019. In 2023, she got her Ph.D. degree in Computer Science at the University of Birmingham, U.K., in collaboration with Southern University of Science and Technology, Shenzhen, China. Her research interests mainly include Evolvable HardWare (EHW) based on memristors, brain-inspired computing, and Genetic Programming (GP). 
 
 
 Education Experience
