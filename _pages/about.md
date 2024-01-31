@@ -41,7 +41,7 @@ Publications
 		<li> <b>Xingming Shi</b>, Leandro L. Minku and Xin Yao, "Evolving Memristive Reservoir," in <i>IEEE Transactions on Neural Networks and Learning Systems</i>, doi: 10.1109/TNNLS.2023.3270224.</li>	
 	
 		
-		<li> <b>Xingming Shi</b>, Leandro L. Minku and Xin Yao, "Adaptive Memory-Enhanced Time Delay Reservoir and its Memristive Implementation," in <i>IEEE Transactions on Computers</i>, vol. 71, no. 11, pp. 2766-2777, 1 Nov. 2022, doi: 10.1109/TC.2022.3173151. (<b>Execllent Science & Technology Academic Paper presented by SZSTA</b>)</li>
+		<li> <b>Xingming Shi</b>, Leandro L. Minku and Xin Yao, "Adaptive Memory-Enhanced Time Delay Reservoir and its Memristive Implementation," in <i>IEEE Transactions on Computers</i>, vol. 71, no. 11, pp. 2766-2777, 1 Nov. 2022, doi: 10.1109/TC.2022.3173151. (<b>Execllent Science & Technology Academic Papers presented by SZSTA</b>)</li>
 	
 		
 		<li> <b>Xinming Shi</b>, Leandro L. Minku, and Xin Yao, "A Novel Tree-based Representation for Evolving Analog Circuits and Its Application to Memristor-based Pulse Generation Circuit," <i>Genetic Programming and Evolvable Machines</i>, 23, pp. 453–493, 2022, https://doi.org/10.1007/s10710-022-09436-w</li>
@@ -86,20 +86,24 @@ Patents
     		<li><b>Xinming Shi</b> and Xin Yao, "Automatisches Entwurfsvorrichtung fur eine analoge Schaltung basierend auf enier Baumstruktur," Prioritat: 25.06.2021, Sep. 2022. (German patent)</li>
 	
   
-		<li><b>Xinming Shi</b> and Zhigang Zeng, “A memristor-based neuron circuit with homeostatic plasticity”, Huazhong University of Science and Techology, Pub Number CN107742153A, Feb. 2018.</li>
+		<li><b>Xinming Shi</b> and Zhigang Zeng, “A memristor-based neuron circuit with homeostatic plasticity”, Pub Number CN107742153A, Feb. 2018.</li>
 		
 		
-		<li>Huazhong Xu, Miaoke Chen, <b>Xinming Shi</b>, Hang Yang, Xiao Peng and Jian Luo, “Concentrated treatment of living oil fumes emissions” Wuhan University of Technology, Pub Number 201530152318.7, May. 2015.</li>
+		<li>Huazhong Xu, Miaoke Chen, <b>Xinming Shi</b>, Hang Yang, Xiao Peng and Jian Luo, “Concentrated treatment of living oil fumes emissions”, Pub Number 201530152318.7, May. 2015.</li>
 	
 			
-		<li>Huazhong Xu, Yixin Wang, <b>Xinming Shi</b>, Xipeng Yu, Xiao Peng, Miaoke Chen, “An emission device of living oil fumes”, Wuhan University of Technology, Pub Number 201520324700.6, May. 2015.</li>
+		<li>Huazhong Xu, Yixin Wang, <b>Xinming Shi</b>, Xipeng Yu, Xiao Peng, Miaoke Chen, “An emission device of living oil fumes”,  Pub Number 201520324700.6, May. 2015.</li>
 </ol> 
+
+
+Research Grant
+------
+* 2023 <b>IEEE CIS Graduate Student Research Grants</b>, PI (USD 4,000), [IEEE Computational Intelligence Society (CIS)](https://cis.ieee.org/activities/educational-activites/research-grants?highlight=WyJncmFudCJd)
 
 
 Honors & Awards
 ------
-* 2023 <b>IEEE CIS Graduate Student Research Grants</b>, PI (USD 4,000), [IEEE Computational Intelligence Society (CIS)](https://cis.ieee.org/activities/educational-activites/research-grants?highlight=WyJncmFudCJd)
-* 2022 <b>Execllent Science & Technology Academic Paper</b>, [Shenzhen Association for Science and Technology (SZSTA)](http://www.szsta.org/english/introduction/content/post_227682.html)
+* 2022 <b>Execllent Science & Technology Academic Papers</b>, [Shenzhen Association for Science and Technology (SZSTA)](http://www.szsta.org/english/introduction/content/post_227682.html)
 * 2022 <b>Execllent Student Teaching Assistant Award</b>, SUSTECH
 * 2018 <b>Outstanding Graduate Student Leader</b>, HUST
 * 2015 <b>Meritorious Winner</b>, Mathematical Contest in Modeling (MCM), [Consortium for Mathematics and Its Applications (COMAP)](https://www.comap.com/)
