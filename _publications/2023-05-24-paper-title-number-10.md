@@ -1,5 +1,5 @@
 ---
-title: "Adaptive Memory-Enhanced Time Delay Reservoir and its Memristive Implementation"
+title: "Evolving Memristive Reservoir"
 collection: publications
 permalink: /publication/2023-05-24-paper-title-number-10
 excerpt: ' '
