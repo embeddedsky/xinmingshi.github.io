@@ -19,8 +19,8 @@ Education Experience
 * 2023.09--Present, Visiting Ph.D in in Computer Science, Victoria University of Wellington, NZ, Supervisors: [Prof. Mengjie Zhang](https://homepages.ecs.vuw.ac.nz/~mengjie/) and [Prof. Bing Xue](https://people.wgtn.ac.nz/bing.xue)
 * 2016--2019, M.E. in Control Science and Engineering, Huazhong University of Science and Technology, China, Supervisor: [Prof. Zhigang Zeng](http://aia.hust.edu.cn/zhigangzeng/). (<b>Exempt from Admission Exam</b>)
 * 2012--2016, B.E. in Electronic Engineering, Wuhan University of Technology, China. ( <b>Graduation with Highest Honors</b>)
-* 2014--2016, B.A. in English Literature, Wuhan University, China.
-</div>
+* 2014--2016, B.A. in English Literature, Wuhan University, China.</div>
+
 
 
 Work Experience
