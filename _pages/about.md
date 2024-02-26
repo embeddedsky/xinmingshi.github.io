@@ -13,21 +13,24 @@ Xinming Shi received the B.E. degree in electronic engineering from Wuhan Univer
 
 Education Experience
 ------
+<div style="text-align: justify;">
 * 2019--Present, Ph.D in in Computer Science, University of Birmingham, UK, Supervisors: [Dr. Leandro L. Minku](https://www.cs.bham.ac.uk/~minkull/index.html) and [Prof. Xin Yao](https://www.cs.bham.ac.uk/~xin/)  
   Thesis title: Novel Evolvable Hardware based on Memristors [(Download thesis here)](https://github.com/embeddedsky/xinmingshi.github.io/raw/master/files/thesis.pdf).
 * 2023.09--Present, Visiting Ph.D in in Computer Science, Victoria University of Wellington, NZ, Supervisors: [Prof. Mengjie Zhang](https://homepages.ecs.vuw.ac.nz/~mengjie/) and [Prof. Bing Xue](https://people.wgtn.ac.nz/bing.xue)
 * 2016--2019, M.E. in Control Science and Engineering, Huazhong University of Science and Technology, China, Supervisor: [Prof. Zhigang Zeng](http://aia.hust.edu.cn/zhigangzeng/). (<b>Exempt from Admission Exam</b>)
 * 2012--2016, B.E. in Electronic Engineering, Wuhan University of Technology, China. ( <b>Graduation with Highest Honors</b>)
 * 2014--2016, B.A. in English Literature, Wuhan University, China.
+</div>
 
 
 Work Experience
 ------
+<div style="text-align: justify;">
 * 2022.02--2022.06, Teaching assisant of Evolutionary Computation & Its Application, Southern University of Science and Technology, China. (<b>Excellent Student Teaching Assistant Award</b>)
 * 2020.12--2021.03, Four-month part-time internship on the project of intelligent complier of brain-like chip, Huawei 2012 Laboratories Central Research Institute, China.
 * 2020.01--2020.06, Teaching assisant of Data Structures & Algorithms, University of Birmingham, UK.
 * 2018.02--2018.06, Teaching assisant of Opsearchs Research, Huazhong University of Science and Technology, China.
-
+</div>
 
 Research Interests
 ------
@@ -39,7 +42,7 @@ Research Interests
 Publications
 ------
 <ol reversed>
-		
+		<div style="text-align: justify;">
 		<li> <b>Xingming Shi</b>, Leandro L. Minku and Xin Yao, "Evolving Memristive Reservoir," in <i>IEEE Transactions on Neural Networks and Learning Systems</i>, doi: 10.1109/TNNLS.2023.3270224.</li>	
 	
 		
@@ -75,6 +78,7 @@ Publications
 		
       
     		 <li>Jiashi Gao, <b>Xinming Shi</b> and James Jian Qiao Yu, "Social-dualcvae: Multimodal Trajectory Forecasting Based on Social Interactions Pattern Aware and Dual Conditional Variational Auto-encoder," <i>arXiv preprint</i>, arXiv:2202.03954.</li>
+       </div>
 	   
 
 </ol>  
