@@ -83,6 +83,7 @@ Publications
 Patents
 ------
 <ol reversed>
+<div style="text-align: justify;">
 		<li><b>Xinming Shi</b> and Xin Yao, "Automatic design method and device for analog circuit based on tree structure, equipment and medium," Pub Number: CN202110713376.7, Jun. 2021.</li>
 	
   
@@ -96,6 +97,7 @@ Patents
 	
 			
 		<li>Huazhong Xu, Yixin Wang, <b>Xinming Shi</b>, Xipeng Yu, Xiao Peng, Miaoke Chen, “An emission device of living oil fumes”,  Pub Number 201520324700.6, May. 2015.</li>
+</div>
 </ol> 
 
 
