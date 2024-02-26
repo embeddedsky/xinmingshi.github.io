@@ -1,5 +1,5 @@
 ---
-title: "Opsearch"
+title: "Opsearchs Research"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
@@ -9,4 +9,4 @@ location: "Wuhan, China"
 ---
 
 
-Teaching assisant of [Opsearch Course](https://www.icourse163.org/course/HUST-1207167805).
+Teaching assisant of [Opsearchs Course](https://www.icourse163.org/course/HUST-1207167805).
