@@ -12,8 +12,8 @@ Xinming Shi received the B.E. degree in electronic engineering from Wuhan Univer
 
 Education Experience
 ------
-* 2019--Present, Ph.D in in Computer Science, University of Birmingham, UK, Supervisors: [Dr. Leandro L. Minku](https://www.cs.bham.ac.uk/~minkull/index.html) and [Prof. Xin Yao](https://www.cs.bham.ac.uk/~xin/)
-  Thesis title: Novel Evolvable Hardware based on Memristors [Download thesis here](https://github.com/embeddedsky/xinmingshi.github.io/raw/master/files/thesis.pdf)
+* 2019--Present, Ph.D in in Computer Science, University of Birmingham, UK, Supervisors: [Dr. Leandro L. Minku](https://www.cs.bham.ac.uk/~minkull/index.html) and [Prof. Xin Yao](https://www.cs.bham.ac.uk/~xin/)  
+  Thesis title: Novel Evolvable Hardware based on Memristors [(Download thesis here)](https://github.com/embeddedsky/xinmingshi.github.io/raw/master/files/thesis.pdf).
 * 2023.09--Present, Visiting Ph.D in in Computer Science, Victoria University of Wellington, NZ, Supervisors: [Prof. Mengjie Zhang](https://homepages.ecs.vuw.ac.nz/~mengjie/) and [Prof. Bing Xue](https://people.wgtn.ac.nz/bing.xue)
 * 2016--2019, M.E. in Control Science and Engineering, Huazhong University of Science and Technology, China, Supervisor: [Prof. Zhigang Zeng](http://aia.hust.edu.cn/zhigangzeng/). (<b>Exempt from Admission Exam</b>)
 * 2012--2016, B.E. in Electronic Engineering, Wuhan University of Technology, China. ( <b>Graduation with Highest Honors</b>)
