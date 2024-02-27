@@ -9,7 +9,7 @@ citation: '<b>Xinming Shi</b>, Zhigang Zeng, Le Yang and Yi Huang, "Memristor-Ba
 ---
 <div style='display: flex; align-items: center;'>
   <div style='flex: 1;'>
-    <img src='https://github.com/embeddedsky/xinmingshi.github.io/raw/master/images/paper2.png' alt="Memristor-Based Neuron Circuit" style='width: 100%;'>
+    <img src='https://github.com/embeddedsky/xinmingshi.github.io/raw/master/images/paper2_1.png' alt="Memristor-Based Neuron Circuit" style='width: 100%;'>
   </div>
   <div style='flex: 2; margin-left: 20px;'>
     <div>The nonvolatility and resistance variability of memristor make it a candidate for emulating complex dynamic behaviors in the neural system. In this paper, thememristive neuron with
