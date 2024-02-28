@@ -40,15 +40,18 @@ Research Samples
 ------
 
 <div style='display: flex; align-items: center;'>
-  <div style='flex: 3; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);'>
-    <img src='https://github.com/embeddedsky/xinmingshi.github.io/raw/master/images/paper11.png' alt="A Brain-Inspired Hardware Architecture for Evolutionary Algorithms Based on Memristive Arrays" style='width: 150%;'>
+  <div style='flex: 2; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);'>
+    <img src='https://github.com/embeddedsky/xinmingshi.github.io/raw/master/images/paper11.png' alt="A Brain-Inspired Hardware Architecture for Evolutionary Algorithms Based on Memristive Arrays" style='width: 100%;'>
   </div>
-  <div style='flex: 2; margin-left: 10px;'>
-  <div style="text-align: justify; font-size: 14px;"> [A Brain-Inspired Hardware Architecture for Evolutionary Algorithms Based on Memristive Arrays](https://github.com/embeddedsky/xinmingshi.github.io/raw/master/files/paper11.pdf)  
-ZiluWang, <b>Xinming Shi</b>, and Xin Yao  
-Brain-inspired computing leverages brain principles to develop energy-efficient hardware for sophisticated tasks. This work introduces a hardware architecture for evolutionary algorithms using memristive arrays, enabling sparse and approximate computing through parallel analog computation. Our implementation demonstrates a significant speed improvement of at least four orders of magnitude. Additionally, we investigate fault tolerance and parameter adaptability through grounded simulations. The results show that the system can evolve and adapt to failures or changes in the memristive arrays, highlighting the architecture's robustness and adaptability.</div>
+  <div style='flex: 1; margin-left: 20px;'>
+    <div style="text-align: justify; font-size: 14px;">
+      <a href="https://github.com/embeddedsky/xinmingshi.github.io/raw/master/files/paper11.pdf">A Brain-Inspired Hardware Architecture for Evolutionary Algorithms Based on Memristive Arrays</a><br>
+      Zilu Wang, <b>Xinming Shi</b>, and Xin Yao<br>
+      Brain-inspired computing leverages brain principles to develop energy-efficient hardware for sophisticated tasks. This work introduces a hardware architecture for evolutionary algorithms using memristive arrays, enabling sparse and approximate computing through parallel analog computation. Our implementation demonstrates a significant speed improvement of at least four orders of magnitude. Additionally, we investigate fault tolerance and parameter adaptability through grounded simulations. The results show that the system can evolve and adapt to failures or changes in the memristive arrays, highlighting the architecture's robustness and adaptability.
+    </div>
   </div>
 </div>
+
 
 Publication List
 ------
