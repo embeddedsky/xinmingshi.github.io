@@ -54,7 +54,7 @@ Research Samples
 
 <div style='display: flex; align-items: center;'>
   <div style='flex: 1.3; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);'>
-    <img src='https://github.com/embeddedsky/xinmingshi.github.io/raw/master/images/paper10_2.png' alt="Evolving Memristive Reservoir" style='width: 100%;'>
+    <img src='https://github.com/embeddedsky/xinmingshi.github.io/raw/master/images/paper10.png' alt="Evolving Memristive Reservoir" style='width: 100%;'>
   </div>
   <div style='flex: 1.2; margin-left: 20px;'>
     <div style="text-align: justify; font-size: 14px;">
