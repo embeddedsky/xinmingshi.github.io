@@ -124,6 +124,7 @@ Professional Services
 <b>Memberships</b>
 * 2022--Now: SIGEVO Member
 * 2023--Now: IEEE Computational Intelligence Society (CIS) Member
+* 2023--Now: Chinese Institute of Electronics Member
 
 <b>Committee Services</b>
 * 2021--2023: Committee Member, [Conference Activities and Communications Subcommittee in IEEE Computational Intelligence Society (CIS)]( https://cis.ieee.org/conferences/welcome-conferences/conferences-commitee/conference-activities-and-communications).
