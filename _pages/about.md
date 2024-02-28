@@ -53,7 +53,7 @@ Research Samples
 </div>
 <div style='height: 1px; background-color: #e0e0e0; margin: 20px 0;'></div>
 <div style='display: flex; align-items: center;'>
-  <div style='flex: 1.2; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);'>
+  <div style='flex: 2; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);'>
     <img src='https://github.com/embeddedsky/xinmingshi.github.io/raw/master/images/paper10_1.png' alt="Evolving Memristive Reservoir" style='width: 100%;'>
   </div>
   <div style='flex: 1.2; margin-left: 20px;'>
