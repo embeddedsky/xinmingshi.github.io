@@ -54,26 +54,39 @@ Research Samples
 
 <div style='display: flex; align-items: center;'>
   <div style='flex: 1.3; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);'>
-    <img src='https://github.com/embeddedsky/xinmingshi.github.io/raw/master/images/paper10_1.png' alt="Evolving Memristive Reservoir" style='width: 100%;'>
+    <img src='https://github.com/embeddedsky/xinmingshi.github.io/raw/master/images/paper10.png' alt="Evolving Memristive Reservoir" style='width: 100%;'>
   </div>
   <div style='flex: 1.2; margin-left: 20px;'>
     <div style="text-align: justify; font-size: 14px;">
       <a href="https://github.com/embeddedsky/xinmingshi.github.io/raw/master/files/paper10.pdf">Evolving Memristive Reservoir</a><br>
      <b>Xinming Shi</b>, Leandro L. Minku,and Xin Yao<br>
-     Memristive reservoirs have gained significant attention in various research fields. However, their deterministic hardware implementation poses challenges for hardware reservoir adaptation. Traditional evolutionary algorithms for evolving reservoirs often overlook the circuit scalability and feasibility of memristive reservoirs. In this work, we introduce an evolvable memristive reservoir circuit based on reconfigurable memristive units (RMUs) that can adaptively evolve for different tasks, directly evolving the configuration signals of memristors to avoid device variance. We also propose a scalable algorithm for evolving this reconfigurable memristive reservoir circuit, ensuring circuit validity according to circuit laws and sparse topology for scalability and feasibility during evolution.
+     Memristive reservoirs have gained significant attention in various research fields. However, their deterministic hardware implementation poses challenges for hardware reservoir adaptation. In this work, we introduce an evolvable memristive reservoir circuit based on reconfigurable memristive units (RMUs) that can adaptively evolve for different tasks, directly evolving the configuration signals of memristors to avoid device variance. We also propose a scalable algorithm for evolving this reconfigurable memristive reservoir circuit, ensuring circuit validity according to circuit laws and sparse topology for scalability and feasibility during evolution.
     </div>
   </div>
 </div>
 
 <div style='display: flex; align-items: center;'>
   <div style='flex: 1.3; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);'>
-    <img src='https://github.com/embeddedsky/xinmingshi.github.io/raw/master/images/paper7.png' alt="Adaptive Memory-Enhanced Time Delay Reservoir and its Memristive Implementation (Execllent Science & Technology Academic Papers presented by SZSTA)" style='width: 100%;'>
+    <img src='https://github.com/embeddedsky/xinmingshi.github.io/raw/master/images/paper7.png' alt="Adaptive Memory-Enhanced Time Delay Reservoir and its Memristive Implementation" style='width: 100%;'>
   </div>
   <div style='flex: 1.2; margin-left: 20px;'>
     <div style="text-align: justify; font-size: 14px;">
-      <a href="https://github.com/embeddedsky/xinmingshi.github.io/raw/master/files/paper7.pdf">Adaptive Memory-Enhanced Time Delay Reservoir and its Memristive Implementation</a><br>
+      <a href="https://github.com/embeddedsky/xinmingshi.github.io/raw/master/files/paper7.pdf">Adaptive Memory-Enhanced Time Delay Reservoir and its Memristive Implementation (Execllent Science & Technology Academic Papers presented by SZSTA)</a><br>
      <b>Xinming Shi</b>, Leandro L. Minku,and Xin Yao<br>
-The Time Delay Reservoir (TDR) is a hardware-friendly machine learning approach that reduces connection overhead in neural networks and can be implemented in various systems. However, it struggles with long-term dependency tasks. We introduce a higher-order delay unit to enhance reservoir memory, using Particle Swarm Optimization for adaptivity. We also propose a memristive implementation of TDR, using dynamic memristors and memristor-based delay elements, which is feasible, effective, and more efficient in terms of circuit area and power consumption compared to traditional hardware reservoirs.
+The Time Delay Reservoir (TDR) is a hardware-friendly machine learning approach that reduces connection overhead in neural networks. However, it struggles with long-term dependency tasks. We introduce a higher-order delay unit to enhance reservoir memory, using PSO for adaptivity. We also propose a memristive implementation of TDR, using dynamic memristors and memristor-based delay elements, which is feasible, effective, and more efficient in terms of circuit area and power consumption compared to traditional hardware reservoirs.
+    </div>
+  </div>
+</div>
+
+<div style='display: flex; align-items: center;'>
+  <div style='flex: 1.3; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);'>
+    <img src='https://github.com/embeddedsky/xinmingshi.github.io/raw/master/images/paper9.png' alt="A Novel Tree-based Representation for Evolving Analog Circuits and Its Application to Memristor-based Pulse Generation Circuit" style='width: 100%;'>
+  </div>
+  <div style='flex: 1.2; margin-left: 20px;'>
+    <div style="text-align: justify; font-size: 14px;">
+      <a href="https://github.com/embeddedsky/xinmingshi.github.io/raw/master/files/paper9.pdf">A Novel Tree-based Representation for Evolving Analog Circuits and Its Application to Memristor-based Pulse Generation Circuit</a><br>
+     <b>Xinming Shi</b>, Leandro L. Minku,and Xin Yao<br>
+In circuit design automation using evolutionary algorithms, circuit representation is crucial. Existing studies on circuit representations face issues such as limited design diversity and inefficient SPICE netlist conversion. This paper introduces a novel tree-based representation for analog circuits, featuring an intuitive mapping rule for SPICE netlists and an effective crossover operator. We propose a genetic programming framework that evolves both circuit topology and device values. The approach is validated with three benchmark circuits and a memristor-based pulse generation circuit, showcasing its compactness and energy efficiency compared to manually-designed counterparts.
     </div>
   </div>
 </div>
