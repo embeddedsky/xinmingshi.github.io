@@ -9,10 +9,11 @@ citation: '<b>Xinming Shi</b>, Jiashi Gao, Leandro L. Minku, James Jian Qiao Yu 
 ---
 <div style='display: flex; align-items: center;'>
   <div style='flex: 1;'>
-    <img src='https://github.com/embeddedsky/xinmingshi.github.io/raw/master/images/paper5.png' alt="Memristor-Based Neuron Circuit" style='width: 150%;'>
+    <img src='https://github.com/embeddedsky/xinmingshi.github.io/raw/master/images/paper5.png' alt="Second-order Time Delay Reservoir Computing for Nonlinear Time Series Problems" style='width: 150%;'>
   </div>
-  <div style='flex: 2; margin-left: 10px;'>
-    <div>Time Delay Reservoir (TDR) can exhibit effects of high dimensionality and short-term memory based on delay differential equations (DDEs), as well as having hardware friendly characteristics. However, the predictive performance and memory capacity of the standard TDRs are still limited, and dependent on the hyperparameter of the oscillation function. In this paper, we first analyze these limitations and their corresponding reasons. We find that the reasons for such limitations are fused by two aspects, which are the trade-off between the strength of selffeedback and neighboring-feedback caused by neuron separation, as well as the unsuitable order setting of the nonlinear function in DDE. Therefore, we propose a new form of TDR with secondorder time delay to overcome such limitations, incurring a more flexible time-multiplexing. Moreover, a parameter-free nonlinear function is introduced to substitute the classic Mackey-Glass oscillator, which alleviates the problem of parameter dependency. Our experiments show that the proposed approach achieves better predictive performance and memory capacity compared with the standard TDR. Our proposed model also outperforms six other existing approaches on both time series prediction and recognition tasks.</div>
+  <div style='flex: 2; margin-left: 5px;'>
+    <div style="color: rosybrown; text-align: justify;">Time Delay Reservoir (TDR) leverages delay differential equations (DDEs) for high dimensionality and short-term memory, with hardware-friendly attributes. However, its predictive performance and memory capacity are limited by the hyperparameters of the oscillation function. We identify the limitations' causes as the trade-off between self-feedback and neighboring-feedback due to neuron separation, and unsuitable nonlinear function order in DDE. To address these, we introduce a second-order time delay TDR for enhanced flexibility and a parameter-free nonlinear function to reduce dependency on parameters. Our experiments demonstrate improved performance and memory capacity over the standard TDR and six other approaches in time series prediction and recognition tasks.
+</div>
   </div>
 </div> 
 
