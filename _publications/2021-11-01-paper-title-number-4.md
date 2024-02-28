@@ -9,11 +9,11 @@ citation: 'Jiashi Gao, <b>Xinming Shi</b> and James Jian Qiao Yu, "Attn-CommNet:
 
 ---
 <div style='display: flex; align-items: center;'>
-  <div style='flex: 1;'>
-    <img src='https://github.com/embeddedsky/xinmingshi.github.io/raw/master/images/paper4.jpg' alt="Memristor-Based Neuron Circuit" style='width: 150%;'>
+  <div style='flex: 3;'>
+    <img src='https://github.com/embeddedsky/xinmingshi.github.io/raw/master/images/paper4.jpg' alt="Attn-CommNet" style='width: 150%;'>
   </div>
-  <div style='flex: 2; margin-left: 10px;'>
-    <div>Traffic lights control could be regarded as a multiagent coordinated problem. A model-free reinforcement learning (RL) approach is a powerful framework for solving such coordinated policy-making problems without prior environmental knowledge. In order to approach a global policy, communication among agents needs to be built. To enable dynamic and scalable communication, we propose a new RL model, CommNet based on Local Attention Mechanism (Attn-CommNet), which uses local selection and attention mechanism between hidden layers to facilitate cooperation. We evaluated the proposed method using synthetic and real word traffic flows under multi-scale road networks. The results demonstrate that the proposed method can get better performance in multi-scale problems, especially large-scale problems compared to the state-of-the-art methods.</div>
+  <div style='flex: 2; margin-left: 5px;'>
+    <div style="color: rosybrown; text-align: justify;">Traffic lights control could be regarded as a multiagent coordinated problem. A model-free reinforcement learning (RL) approach is a powerful framework for solving such coordinated policy-making problems without prior environmental knowledge. In order to approach a global policy, communication among agents needs to be built. To enable dynamic and scalable communication, we propose a new RL model, CommNet based on Local Attention Mechanism (Attn-CommNet), which uses local selection and attention mechanism between hidden layers to facilitate cooperation. We evaluated the proposed method using synthetic and real word traffic flows under multi-scale road networks. The results demonstrate that the proposed method can get better performance in multi-scale problems, especially large-scale problems compared to the state-of-the-art methods.</div>
   </div>
 </div>
  
