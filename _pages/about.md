@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align: justify;">
-Xinming Shi received the B.E. degree in electronic engineering from Wuhan University of Technology and B.A. degree in English literature from from Wuhan University, Wuhan, China, in 2016.  She received the M.E. degree in School of Artificial Intelligence & Automation from Huazhong University of Science and Technology, Wuhan, China, in 2019. In 2023, she got her Ph.D. degree in Computer Science at the University of Birmingham, U.K., in collaboration with Southern University of Science and Technology, Shenzhen, China. Her research interests mainly include Evolvable HardWare (EHW) based on memristors, brain-inspired computing, and Genetic Programming (GP). </div>
+Xinming Shi received the B.E. degree in electronic engineering from Wuhan University of Technology and B.A. degree in English literature from from Wuhan University, Wuhan, China, in 2016.  She received the M.E. degree in School of Artificial Intelligence & Automation from Huazhong University of Science and Technology, Wuhan, China, in 2019. In 2023, she got her Ph.D. degree in Computer Science at the University of Birmingham, U.K., in collaboration with Southern University of Science and Technology, Shenzhen, China. Xinming has a good and broad training from three different universities during Ph.D., including UoB in UK, Southern University of Science and Technology (SUSTech) in China, and Victoria University of Wellington (VUW) in New Zealand. She has published more than a dozen papers, including those in leading IEEE Transactions and ACM Transactions. Her best five IEEE/ACM Transactions papers would be either 3* or 4* in REF terms. Her research interests mainly include Evolvable HardWare (EHW) based on memristors, brain-inspired computing, and Genetic Programming (GP). </div>
 
 
 Education Experience
@@ -32,8 +32,8 @@ Work Experience
 
 Research Interests
 ------
-* Evolvable HardWare (EHW) based on emerging electronic devices
-* Memristor-based neural networks
+* Evolvable HardWare (EHW) based on memristors
+* Brain-inspired computing
 * Genetic Programming
 
 
