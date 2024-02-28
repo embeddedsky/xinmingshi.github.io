@@ -10,6 +10,7 @@ redirect_from:
 <div style="text-align: justify;">
 Xinming Shi received the B.E. degree in electronic engineering from Wuhan University of Technology and B.A. degree in English literature from from Wuhan University, Wuhan, China, in 2016.  She received the M.E. degree in School of Artificial Intelligence & Automation from Huazhong University of Science and Technology, Wuhan, China, in 2019. In 2023, she got her Ph.D. degree in Computer Science at the University of Birmingham, U.K., in collaboration with Southern University of Science and Technology, Shenzhen, China. Xinming has a good and broad training from three different universities during Ph.D., including UoB in UK, Southern University of Science and Technology (SUSTech) in China, and Victoria University of Wellington (VUW) in New Zealand. She has published more than a dozen papers, including those in leading IEEE Transactions and ACM Transactions. Her best five IEEE/ACM Transactions papers would be either 3* or 4* in REF terms. Her research interests mainly include Evolvable HardWare (EHW) based on memristors, brain-inspired computing, and Genetic Programming (GP). </div>
 
+<div style='height: 1px; background-color: #e0e0e0; margin: 20px 0;'></div>
 
 Education Experience
 ------
@@ -22,6 +23,7 @@ Education Experience
 * 2014--2016, B.A. in English Literature, Wuhan University, China.
 
 
+<div style='height: 1px; background-color: #e0e0e0; margin: 20px 0;'></div>
 
 Work Experience
 ------
@@ -29,12 +31,14 @@ Work Experience
 * 2020.12--2021.03, Advanced researcher on the project of intelligent complier of brain-like chip, Huawei 2012 Laboratories Central Research Institute, China.
 * 2020.01--2020.06, Teaching assisant of Data Structures & Algorithms, University of Birmingham, UK.
 * 2018.02--2018.06, Teaching assisant of Opsearchs Research, Huazhong University of Science and Technology, China.
+<div style='height: 1px; background-color: #e0e0e0; margin: 20px 0;'></div>
 
 Research Interests
 ------
 * Evolvable HardWare (EHW) based on Memristors
 * Brain-inspired Computing
 * Genetic Programming
+<div style='height: 1px; background-color: #e0e0e0; margin: 20px 0;'></div>
 
 Research Samples
 ------
@@ -53,8 +57,8 @@ Research Samples
 </div>
 <div style='height: 1px; background-color: #e0e0e0; margin: 20px 0;'></div>
 <div style='display: flex; align-items: center;'>
-  <div style='flex: 2; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);'>
-    <img src='https://github.com/embeddedsky/xinmingshi.github.io/raw/master/images/paper10_1.png' alt="Evolving Memristive Reservoir" style='width: 100%;'>
+  <div style='flex: 1.3; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);'>
+    <img src='https://github.com/embeddedsky/xinmingshi.github.io/raw/master/images/paper10_3.png' alt="Evolving Memristive Reservoir" style='width: 100%;'>
   </div>
   <div style='flex: 1.2; margin-left: 20px;'>
     <div style="text-align: justify; font-size: 14px;">
@@ -104,6 +108,8 @@ In this paper, a memristive neuron with homeostatic plasticity is implemented. T
   </div>
 </div>
 
+<div style='height: 1px; background-color: #e0e0e0; margin: 20px 0;'></div>
+
 Publication List
 ------
 <ol reversed>
@@ -147,6 +153,7 @@ Publication List
 	   
 
 </ol>  
+<div style='height: 1px; background-color: #e0e0e0; margin: 20px 0;'></div>
 
 Patents
 ------
@@ -167,12 +174,13 @@ Patents
 		<li>Huazhong Xu, Yixin Wang, <b>Xinming Shi</b>, Xipeng Yu, Xiao Peng, Miaoke Chen, “An emission device of living oil fumes”,  Pub Number 201520324700.6, May. 2015.</li>
 </div>
 </ol> 
-
+<div style='height: 1px; background-color: #e0e0e0; margin: 20px 0;'></div>
 
 Research Grant
 ------
 * 2023 <b>IEEE CIS Graduate Student Research Grants</b>, PI (USD 4,000), [IEEE Computational Intelligence Society (CIS)](https://cis.ieee.org/activities/educational-activites/research-grants?highlight=WyJncmFudCJd)
 
+<div style='height: 1px; background-color: #e0e0e0; margin: 20px 0;'></div>
 
 Honors & Awards
 ------
@@ -185,6 +193,7 @@ Honors & Awards
 * 2012 <b>Prominent Student Award (top 5%)</b>, WHUT
 * 2012 <b>Scholarship for Outstanding Learning Achievement (top 5%)</b>, WHUT
 
+<div style='height: 1px; background-color: #e0e0e0; margin: 20px 0;'></div>
 
 Professional Services
 ------
