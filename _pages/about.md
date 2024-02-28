@@ -54,7 +54,7 @@ Research Samples
 
 <div style='display: flex; align-items: center;'>
   <div style='flex: 1.3; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);'>
-    <img src='https://github.com/embeddedsky/xinmingshi.github.io/raw/master/images/paper10.png' alt="Evolving Memristive Reservoir" style='width: 100%;'>
+    <img src='https://github.com/embeddedsky/xinmingshi.github.io/raw/master/images/paper10_2.png' alt="Evolving Memristive Reservoir" style='width: 100%;'>
   </div>
   <div style='flex: 1.2; margin-left: 20px;'>
     <div style="text-align: justify; font-size: 14px;">
@@ -87,6 +87,19 @@ The Time Delay Reservoir (TDR) is a hardware-friendly machine learning approach 
       <a href="https://github.com/embeddedsky/xinmingshi.github.io/raw/master/files/paper9.pdf">A Novel Tree-based Representation for Evolving Analog Circuits and Its Application to Memristor-based Pulse Generation Circuit</a><br>
      <b>Xinming Shi</b>, Leandro L. Minku,and Xin Yao<br>
 In circuit design automation using evolutionary algorithms, circuit representation is crucial. Existing studies on circuit representations face issues such as limited design diversity and inefficient SPICE netlist conversion. This paper introduces a novel tree-based representation for analog circuits, featuring an intuitive mapping rule for SPICE netlists and an effective crossover operator. We propose a genetic programming framework that evolves both circuit topology and device values. The approach is validated with three benchmark circuits and a memristor-based pulse generation circuit, showcasing its compactness and energy efficiency compared to manually-designed counterparts.
+    </div>
+  </div>
+</div>
+
+<div style='display: flex; align-items: center;'>
+  <div style='flex: 1.3; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);'>
+    <img src='https://github.com/embeddedsky/xinmingshi.github.io/raw/master/images/paper2_1.png' alt="Memristor-Based Circuit Design for Neuron With Homeostatic Plasticity" style='width: 100%;'>
+  </div>
+  <div style='flex: 1.2; margin-left: 20px;'>
+    <div style="text-align: justify; font-size: 14px;">
+      <a href="https://github.com/embeddedsky/xinmingshi.github.io/raw/master/files/paper2.pdf">Memristor-Based Circuit Design for Neuron With Homeostatic Plasticity</a><br>
+     <b>Xinming Shi</b>, Zhigang Zeng, Le Yang and Yi Huang<br>
+In this paper, a memristive neuron with homeostatic plasticity is implemented. The memristor is integrated into the neuron circuit, where its memristance represents the membrane sensitivity of neurons. The memristor-based neuron comprises a trigger module, a pulse generation module, and a feedback module. This configuration allows the neuron to adaptively adjust its firing rate and maintain it within the inherent range, mirroring its biological counterpart. The proposed design can replicate the firing rate behaviors observed in electrophysiological experiments on rodents, where the homeostatic plasticity of neurons is inhibited by sleep signals and promoted by wake signals. Furthermore, all simulations are conducted in Cadence PSPICE, validating the functionality of the design.
     </div>
   </div>
 </div>
