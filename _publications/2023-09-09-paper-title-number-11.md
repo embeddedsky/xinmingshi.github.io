@@ -13,7 +13,7 @@ citation: 'ZiluWang, <b>Xinming Shi</b>, and Xin Yao, "A Brain-Inspired Hardware
     <img src='https://github.com/embeddedsky/xinmingshi.github.io/raw/master/images/paper11.png' alt="Memristor-Based Neuron Circuit" style='width: 100%;'>
   </div>
   <div style='flex: 2; margin-left: 20px;'>
-    <div>Brain-inspired computing leverages brain principles to develop energy-efficient hardware for sophisticated tasks. This work introduces a hardware architecture for evolutionary algorithms using memristive arrays, enabling sparse and approximate computing through parallel analog computation. Our implementation demonstrates a significant speed improvement of at least four orders of magnitude. Additionally, we investigate fault tolerance and parameter adaptability through grounded simulations. The results show that the system can evolve and adapt to failures or changes in the memristive arrays, highlighting the architecture's robustness and adaptability.</div>
+  <span style="color: rosybrown">Brain-inspired computing leverages brain principles to develop energy-efficient hardware for sophisticated tasks. This work introduces a hardware architecture for evolutionary algorithms using memristive arrays, enabling sparse and approximate computing through parallel analog computation. Our implementation demonstrates a significant speed improvement of at least four orders of magnitude. Additionally, we investigate fault tolerance and parameter adaptability through grounded simulations. The results show that the system can evolve and adapt to failures or changes in the memristive arrays, highlighting the architecture's robustness and adaptability.</span>
   </div>
 </div>
 
