@@ -54,7 +54,7 @@ Research Samples
 <div style='height: 1px; background-color: #e0e0e0; margin: 20px 0;'></div>
 <div style='display: flex; align-items: center;'>
   <div style='flex: 1.2; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);'>
-    <img src='https://github.com/embeddedsky/xinmingshi.github.io/raw/master/images/paper10.png' alt="Evolving Memristive Reservoir" style='width: 100%;'>
+    <img src='https://github.com/embeddedsky/xinmingshi.github.io/raw/master/images/paper10——1.png' alt="Evolving Memristive Reservoir" style='width: 100%;'>
   </div>
   <div style='flex: 1.2; margin-left: 20px;'>
     <div style="text-align: justify; font-size: 14px;">
@@ -82,7 +82,7 @@ The Time Delay Reservoir (TDR) is a hardware-friendly machine learning approach 
   <div style='flex: 1.2; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);'>
     <img src='https://github.com/embeddedsky/xinmingshi.github.io/raw/master/images/paper9.png' alt="A Novel Tree-based Representation for Evolving Analog Circuits and Its Application to Memristor-based Pulse Generation Circuit" style='width: 100%;'>
   </div>
-  <div style='flex: 1.2; margin-left: 20px;'>
+  <div style='flex: 1.3; margin-left: 20px;'>
     <div style="text-align: justify; font-size: 14px;">
       <a href="https://github.com/embeddedsky/xinmingshi.github.io/raw/master/files/paper9.pdf">A Novel Tree-based Representation for Evolving Analog Circuits and Its Application to Memristor-based Pulse Generation Circuit</a><br>
      <b>Xinming Shi</b>, Leandro L. Minku,and Xin Yao<br>
@@ -92,10 +92,10 @@ In circuit design automation using evolutionary algorithms, circuit representati
 </div>
 <div style='height: 1px; background-color: #e0e0e0; margin: 20px 0;'></div>
 <div style='display: flex; align-items: center;'>
-  <div style='flex: 1.3; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);'>
+  <div style='flex: 1.2; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);'>
     <img src='https://github.com/embeddedsky/xinmingshi.github.io/raw/master/images/paper2_1.png' alt="Memristor-Based Circuit Design for Neuron With Homeostatic Plasticity" style='width: 100%;'>
   </div>
-  <div style='flex: 1.2; margin-left: 20px;'>
+  <div style='flex: 1.3; margin-left: 20px;'>
     <div style="text-align: justify; font-size: 14px;">
       <a href="https://github.com/embeddedsky/xinmingshi.github.io/raw/master/files/paper2.pdf">Memristor-Based Circuit Design for Neuron With Homeostatic Plasticity</a><br>
      <b>Xinming Shi</b>, Zhigang Zeng, Le Yang and Yi Huang<br>
