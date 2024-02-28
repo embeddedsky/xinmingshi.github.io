@@ -8,7 +8,7 @@ venue: 'IEEE Symposium Series on Computational Intelligence (SSCI)'
 citation: '<b>Xinming Shi</b>, Jiashi Gao, Leandro L. Minku, James Jian Qiao Yu  and Xin Yao, "Second-order Time Delay Reservoir Computing for Nonlinear Time Series Problems," <i>2021 IEEE Symposium Series on Computational Intelligence (SSCI)</i>, Orlando, FL, USA, 2021, pp. 1-8, doi: 10.1109/SSCI50451.2021.9659913.'
 ---
 <div style='display: flex; align-items: center;'>
-  <div style='flex: 1;'>
+  <div style='flex: 3;'>
     <img src='https://github.com/embeddedsky/xinmingshi.github.io/raw/master/images/paper5.png' alt="Second-order Time Delay Reservoir Computing for Nonlinear Time Series Problems" style='width: 150%;'>
   </div>
   <div style='flex: 2; margin-left: 5px;'>
