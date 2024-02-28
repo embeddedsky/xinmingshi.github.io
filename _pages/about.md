@@ -53,27 +53,27 @@ Research Samples
 </div>
 
 <div style='display: flex; align-items: center;'>
-  <div style='flex: 1; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);'>
+  <div style='flex: 1.3; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);'>
     <img src='https://github.com/embeddedsky/xinmingshi.github.io/raw/master/images/paper10_1.png' alt="Evolving Memristive Reservoir" style='width: 100%;'>
   </div>
-  <div style='flex: 1; margin-left: 20px;'>
+  <div style='flex: 1.2; margin-left: 20px;'>
     <div style="text-align: justify; font-size: 14px;">
       <a href="https://github.com/embeddedsky/xinmingshi.github.io/raw/master/files/paper10.pdf">Evolving Memristive Reservoir</a><br>
      <b>Xinming Shi</b>, Leandro L. Minku,and Xin Yao<br>
-     Memristive reservoirs, with their dynamic plasticity, nanosize, and energy efficiency, have gained significant attention in various research fields. However, their deterministic hardware implementation poses challenges for hardware reservoir adaptation. Traditional evolutionary algorithms for evolving reservoirs often overlook the circuit scalability and feasibility of memristive reservoirs. In this work, we introduce an evolvable memristive reservoir circuit based on reconfigurable memristive units (RMUs) that can adaptively evolve for different tasks, directly evolving the configuration signals of memristors to avoid device variance. We also propose a scalable algorithm for evolving this reconfigurable memristive reservoir circuit, ensuring circuit validity according to circuit laws and sparse topology for scalability and feasibility during evolution.</div>
+     Memristive reservoirs have gained significant attention in various research fields. However, their deterministic hardware implementation poses challenges for hardware reservoir adaptation. Traditional evolutionary algorithms for evolving reservoirs often overlook the circuit scalability and feasibility of memristive reservoirs. In this work, we introduce an evolvable memristive reservoir circuit based on reconfigurable memristive units (RMUs) that can adaptively evolve for different tasks, directly evolving the configuration signals of memristors to avoid device variance. We also propose a scalable algorithm for evolving this reconfigurable memristive reservoir circuit, ensuring circuit validity according to circuit laws and sparse topology for scalability and feasibility during evolution.
     </div>
   </div>
 </div>
 
 <div style='display: flex; align-items: center;'>
-  <div style='flex: 1; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);'>
+  <div style='flex: 1.3; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);'>
     <img src='https://github.com/embeddedsky/xinmingshi.github.io/raw/master/images/paper7.png' alt="Adaptive Memory-Enhanced Time Delay Reservoir and its Memristive Implementation (Execllent Science & Technology Academic Papers presented by SZSTA)" style='width: 100%;'>
   </div>
-  <div style='flex: 1; margin-left: 20px;'>
+  <div style='flex: 1.2; margin-left: 20px;'>
     <div style="text-align: justify; font-size: 14px;">
       <a href="https://github.com/embeddedsky/xinmingshi.github.io/raw/master/files/paper7.pdf">Adaptive Memory-Enhanced Time Delay Reservoir and its Memristive Implementation</a><br>
      <b>Xinming Shi</b>, Leandro L. Minku,and Xin Yao<br>
-The Time Delay Reservoir (TDR) is a hardware-friendly machine learning approach that reduces connection overhead in neural networks and can be implemented in various systems. However, it struggles with long-term dependency tasks. We introduce a higher-order delay unit to enhance reservoir memory, using Particle Swarm Optimization for adaptivity. Our experiments show superior performance over seven existing methods for both short- and long-term memory datasets. We also propose a memristive implementation of TDR, using dynamic memristors and memristor-based delay elements, which is feasible, effective, and more efficient in terms of circuit area and power consumption compared to traditional hardware reservoirs.</div>
+The Time Delay Reservoir (TDR) is a hardware-friendly machine learning approach that reduces connection overhead in neural networks and can be implemented in various systems. However, it struggles with long-term dependency tasks. We introduce a higher-order delay unit to enhance reservoir memory, using Particle Swarm Optimization for adaptivity. We also propose a memristive implementation of TDR, using dynamic memristors and memristor-based delay elements, which is feasible, effective, and more efficient in terms of circuit area and power consumption compared to traditional hardware reservoirs.
     </div>
   </div>
 </div>
