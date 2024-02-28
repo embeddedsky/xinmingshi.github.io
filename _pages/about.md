@@ -51,9 +51,9 @@ Research Samples
     </div>
   </div>
 </div>
-
+<div style='height: 1px; background-color: #e0e0e0; margin: 20px 0;'></div>
 <div style='display: flex; align-items: center;'>
-  <div style='flex: 1.3; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);'>
+  <div style='flex: 1.2; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);'>
     <img src='https://github.com/embeddedsky/xinmingshi.github.io/raw/master/images/paper10.png' alt="Evolving Memristive Reservoir" style='width: 100%;'>
   </div>
   <div style='flex: 1.2; margin-left: 20px;'>
@@ -64,7 +64,7 @@ Research Samples
     </div>
   </div>
 </div>
-
+<div style='height: 1px; background-color: #e0e0e0; margin: 20px 0;'></div>
 <div style='display: flex; align-items: center;'>
   <div style='flex: 1.3; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);'>
     <img src='https://github.com/embeddedsky/xinmingshi.github.io/raw/master/images/paper7.png' alt="Adaptive Memory-Enhanced Time Delay Reservoir and its Memristive Implementation" style='width: 100%;'>
@@ -77,9 +77,9 @@ The Time Delay Reservoir (TDR) is a hardware-friendly machine learning approach 
     </div>
   </div>
 </div>
-
+<div style='height: 1px; background-color: #e0e0e0; margin: 20px 0;'></div>
 <div style='display: flex; align-items: center;'>
-  <div style='flex: 1.3; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);'>
+  <div style='flex: 1.2; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);'>
     <img src='https://github.com/embeddedsky/xinmingshi.github.io/raw/master/images/paper9.png' alt="A Novel Tree-based Representation for Evolving Analog Circuits and Its Application to Memristor-based Pulse Generation Circuit" style='width: 100%;'>
   </div>
   <div style='flex: 1.2; margin-left: 20px;'>
@@ -90,7 +90,7 @@ In circuit design automation using evolutionary algorithms, circuit representati
     </div>
   </div>
 </div>
-
+<div style='height: 1px; background-color: #e0e0e0; margin: 20px 0;'></div>
 <div style='display: flex; align-items: center;'>
   <div style='flex: 1.3; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);'>
     <img src='https://github.com/embeddedsky/xinmingshi.github.io/raw/master/images/paper2_1.png' alt="Memristor-Based Circuit Design for Neuron With Homeostatic Plasticity" style='width: 100%;'>
