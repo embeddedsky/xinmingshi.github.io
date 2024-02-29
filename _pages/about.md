@@ -159,13 +159,15 @@ Patents
 ------
 <ol reversed>
 <div style="text-align: justify;">
-		<li><b>Xinming Shi</b> and Xin Yao, "Automatic design method and device for analog circuit based on tree structure, equipment and medium," Pub Number: CN202110713376.7, Jun. 2021.</li>
+		<li><b>Xinming Shi</b> and Xin Yao, "基于树结构的模拟电路自动设计方法、装置、设备及介质," Pub Number: CN113420519 B, 7th Apr. 2023. (China patent)</li>
+		
+  		<li><b>Xinming Shi</b> and Xin Yao, "Automatic design method and device for analog circuit based on tree structure, equipment and medium," Pub Number: CN202110713376.7, Jun. 2021. (US patent)</li>
 	
   
     		<li><b>Xinming Shi</b> and Xin Yao, "Automatisches Entwurfsvorrichtung fur eine analoge Schaltung basierend auf enier Baumstruktur," Prioritat: 25.06.2021, Sep. 2022. (German patent)</li>
 	
   
-		<li><b>Xinming Shi</b> and Zhigang Zeng, “A memristor-based neuron circuit with homeostatic plasticity”, Pub Number CN107742153A, Feb. 2018.</li>
+		<li><b>Xinming Shi</b> and Zhigang Zeng, “A memristor-based neuron circuit with homeostatic plasticity”, Pub Number CN107742153A, Feb. 2018. (China patent)</li>
 		
 		
 		<li>Huazhong Xu, Miaoke Chen, <b>Xinming Shi</b>, Hang Yang, Xiao Peng and Jian Luo, “Concentrated treatment of living oil fumes emissions”, Pub Number 201530152318.7, May. 2015.</li>
