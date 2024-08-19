@@ -186,6 +186,8 @@ Research Grant
 
 Honors & Awards
 ------
+* 2024 <b>Recipient of Leverhulme Early Career Fellowships</b>, [Leverhulme Trust](https://www.leverhulme.ac.uk/early-career-fellowships)
+* 2024 <b>Top Ten Graduates of Southern University of Science and Technology</b>, SUSTECH
 * 2022 <b>Excellent Science & Technology Academic Papers</b>, [Shenzhen Association for Science and Technology (SZSTA)](http://www.szsta.org/english/introduction/content/post_227682.html)
 * 2022 <b>Excellent Student Teaching Assistant Award</b>, SUSTECH
 * 2018 <b>Outstanding Graduate Student Leader</b>, HUST
