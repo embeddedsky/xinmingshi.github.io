@@ -27,6 +27,7 @@ Education Experience
 
 Work Experience
 ------
+* 2024.08--Present, Lecturer, School of Electronics, Electrical Engineering and Computer Science, Queen's University Belfast, UK
 * 2022.02--2022.06, Teaching assistant of Evolutionary Computation & Its Application, Southern University of Science and Technology, China. (<b>Excellent Student Teaching Assistant Award</b>)
 * 2020.12--2021.03, Advanced researcher intern on the project of intelligent complier of brain-like chip, Huawei 2012 Laboratories Central Research Institute, China.
 * 2020.01--2020.06, Teaching assistant of Data Structures & Algorithms, University of Birmingham, UK.
@@ -128,7 +129,10 @@ Publication List
 		<li> Zilu Wang, <b>Xingming Shi</b>, and Xin Yao, "A Brain-Inspired Hardware Architecture for Evolutionary Algorithms based on Memristive Arrays," in <i>ACM Transactions on Design Automation of Electronic Systems</i>, doi: 10.1145/3598421.</li>	
 	
 	
-		<li> <b>Xingming Shi</b>, Zilu Wang, Leandro L. Minku and Xin Yao, "Explaining Memristive Reservoir Computing Through Evolving Feature Attribution," in <i>Proceedings of the Genetic and Evolutionary Computation Conference Companion</i>, 2023, doi: 10.1145/3583133.3590619.</li>	
+		<li> <b>Xingming Shi</b>, Leandro L. Minku and Xin Yao, "Novel Memristive Reservoir Computing with Evolvable Topology for Time Series Prediction," in <i> 31st International Conference on Neural Information Processing (ICONIP)</i>, 2024, accepted.</li>	
+				
+  
+ 		 <li> <b>Xingming Shi</b>, Zilu Wang, Leandro L. Minku and Xin Yao, "Explaining Memristive Reservoir Computing Through Evolving Feature Attribution," in <i>Proceedings of the Genetic and Evolutionary Computation Conference Companion</i>, 2023, doi: 10.1145/3583133.3590619.</li>	
 		
 	
 		<li><b>Xinming Shi</b>, Jiashi Gao, Leandro L. Minku, and Xin Yao, “Evolving Parsimonious Circuits Through Shapley Value-based Genetic Programming,” in <i>Proceedings of the Genetic and Evolutionary Computation Conference Companion</i>, 2022, pp. 602–605.</li>
