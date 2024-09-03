@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* Download my [resumé](https://github.com/embeddedsky/xinmingshi.github.io/raw/master/files/CV_Xinming.pdf).
+* Download my [resumé](https://github.com/embeddedsky/xinmingshi.github.io/raw/master/files/CV_XinmingShi_QUB.pdf).
 
 <!-- Education
 ======
