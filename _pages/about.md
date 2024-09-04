@@ -25,12 +25,17 @@ Inspired by the human brain, the development of brain-inspired intelligence is a
 Open Positions
 ------
 <div style="text-align: justify; background-color: #FFFFE0;">
-We are actively seeking individuals with strong programming and circuit design skills to tackle challenges at the intersection of neuromorphic computing and computational intelligence. If you are interested, we offer various opportunities including multiple PhD, Joint PhD, Part-time PhD, Research Assistant (RA), and Visiting Scholar positions. Our research focuses on the following prospective topics:
-* Brain-inspired intelligence algorithms, such as spiking neural networks
-* Design of trustworthy brain-inspired computing systems
-* Evolutionary learning algorithm and its brain-inspired hardware implementation
-* Brain-inspired Hardware-Algorithm Co-design Framework
-* Efficient Brain-inspired LLM algorithm/hardware design</div>
+We are actively seeking individuals with strong programming and circuit design skills to tackle challenges at the intersection of neuromorphic computing and computational intelligence. If you are interested, we offer various opportunities including multiple PhD, Joint PhD, Part-time PhD, Research Assistant (RA), and Visiting Scholar positions. Our research focuses on the following prospective topics:</div>
+<div style="background-color: #FFFFE0;">
+    <ul>
+        <li>Brain-inspired intelligence algorithms, such as spiking neural networks</li>
+        <li>Design of trustworthy brain-inspired computing systems</li>
+        <li>Evolutionary learning algorithm and its brain-inspired hardware implementation</li>
+        <li>Brain-inspired Hardware-Algorithm Co-design Framework</li>
+        <li>Efficient Brain-inspired LLM algorithm/hardware design</li>
+    </ul>
+</div>
+
 
 
 
