@@ -22,7 +22,7 @@ Inspired by the human brain, the development of brain-inspired intelligence is a
 * Trustworthy Brain-inspired Computing 
 <div style='height: 1px; background-color: #e0e0e0; margin: 20px 0;'></div>
 
-Open Positions
+<p style="color:red"><b>Open Positions</b> 
 ------
 <div style="text-align: justify;">
 We are actively seeking individuals with strong programming and circuit design skills to tackle challenges at the intersection of neuromorphic computing and computational intelligence. If you are interested, we offer various opportunities including multiple PhD, Joint PhD, Part-time PhD, Research Assistant (RA), and Visiting Scholar positions. Our research focuses on the following prospective topics:</div>
