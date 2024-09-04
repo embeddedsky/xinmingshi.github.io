@@ -19,7 +19,7 @@ Inspired by the human brain, the development of brain-inspired intelligence is a
 
 * Neuromorphic Computing Hardware & Software
 * Evolutionary Learning
-* Trustworthy Brain-inspired Computing 
+* Trustworthy Brain-inspired Intelligence 
 <div style='height: 1px; background-color: #e0e0e0; margin: 20px 0;'></div>
 
 <h2 style="color: red;">Open Positions</h2>
