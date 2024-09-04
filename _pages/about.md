@@ -31,6 +31,7 @@ We are actively seeking individuals with strong programming and circuit design s
 
 <div style='height: 1px; background-color: #e0e0e0; margin: 20px 0;'></div>
 
+<!--
 Education Experience
 ------
 * 2019--2023, Ph.D in in Computer Science, University of Birmingham, UK, Supervisors: [Dr. Leandro L. Minku](https://www.cs.bham.ac.uk/~minkull/index.html) and [Prof. Xin Yao](https://www.cs.bham.ac.uk/~xin/)  
@@ -44,6 +45,7 @@ Education Experience
 
 <div style='height: 1px; background-color: #e0e0e0; margin: 20px 0;'></div>
 
+
 Work Experience
 ------
 * 2024.08--Present, Lecturer, School of Electronics, Electrical Engineering and Computer Science, Queen's University Belfast, UK
@@ -52,6 +54,7 @@ Work Experience
 * 2020.01--2020.06, Teaching assistant of Data Structures & Algorithms, University of Birmingham, UK.
 * 2018.02--2018.06, Teaching assistant of Opsearchs Research, Huazhong University of Science and Technology, China.
 <div style='height: 1px; background-color: #e0e0e0; margin: 20px 0;'></div>
+-->
 
 Research Samples
 ------
