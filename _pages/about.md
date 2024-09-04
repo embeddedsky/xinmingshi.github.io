@@ -14,15 +14,18 @@ Xinming Shi received the B.E. degree in electronic engineering from Wuhan Univer
 
 Research Interests
 ------
-Inspired by the human brain, the development of brain-inspired intelligence is a rapidly expanding area in AI. Facing the constraints of traditional von Neumann architectures and the diminishing of Moore's Law, the computing performance of the intelligent hardware needs to be continuously improved. We delve into devices, algorithms, circuits, and architecture, focusing on the use of brain-inspired learning, memory, and evolution in designing software algorithms and hardware, targeting applications in edge computing, robotics, and large language models (LLMs).
+<div style="text-align: justify;">
+Inspired by the human brain, the development of brain-inspired intelligence is a rapidly expanding area in AI. Facing the constraints of traditional von Neumann architectures and the diminishing of Moore's Law, the computing performance of the intelligent hardware needs to be continuously improved. We delve into devices, algorithms, circuits, and architecture, focusing on the use of brain-inspired learning, memory, and evolution in designing software algorithms and hardware, targeting applications in edge computing, robotics, and large language models (LLMs). </div>
 
 * Neuromorphic Computing Hardware & Software
 * Evolutionary Learning
+* Trustworthy Brain-inspired Computing 
 <div style='height: 1px; background-color: #e0e0e0; margin: 20px 0;'></div>
 
 Open Positions
 ------
-We are actively seeking individuals with strong programming and circuit design skills to tackle challenges at the intersection of neuromorphic computing and computational intelligence. If you are interested, we offer various opportunities including multiple PhD, Joint PhD, Part-time PhD, Research Assistant (RA), and Visiting Scholar positions. Our research focuses on the following prospective topics:
+<div style="text-align: justify;">
+We are actively seeking individuals with strong programming and circuit design skills to tackle challenges at the intersection of neuromorphic computing and computational intelligence. If you are interested, we offer various opportunities including multiple PhD, Joint PhD, Part-time PhD, Research Assistant (RA), and Visiting Scholar positions. Our research focuses on the following prospective topics:</div>
 * Brain-inspired intelligence algorithms, such as spiking neural networks
 * Design of trustworthy brain-inspired computing systems
 * Evolutionary learning algorithm and its brain-inspired hardware implementation
