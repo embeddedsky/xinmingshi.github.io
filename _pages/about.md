@@ -31,8 +31,8 @@ We are actively seeking individuals with strong programming and circuit design s
         <li>Brain-inspired intelligence algorithms, such as spiking neural networks</li>
         <li>Design of trustworthy brain-inspired computing systems</li>
         <li>Evolutionary learning algorithm and its brain-inspired hardware implementation</li>
-        <li>Brain-inspired Hardware-Algorithm Co-design Framework</li>
-        <li>Efficient Brain-inspired LLM algorithm/hardware design</li>
+        <li>Brain-inspired hardware-algorithm co-design framework</li>
+        <li>Efficient brain-inspired LLM algorithm/hardware design</li>
     </ul>
 </div>
 <strong>If you are interested, please submit your CV to my email.</strong>
