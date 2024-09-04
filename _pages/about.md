@@ -8,7 +8,26 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align: justify;">
-Xinming Shi received the B.E. degree in electronic engineering from Wuhan University of Technology and B.A. degree in English literature from from Wuhan University, Wuhan, China, in 2016.  She received the M.E. degree in School of Artificial Intelligence & Automation from Huazhong University of Science and Technology, Wuhan, China, in 2019. In 2023, she got her Ph.D. degree in Computer Science at the University of Birmingham, U.K., in collaboration with Southern University of Science and Technology, Shenzhen, China. She has spent her Ph.D from three different universities during Ph.D., including UoB in UK, Southern University of Science and Technology (SUSTech) in China, and Victoria University of Wellington (VUW) in New Zealand. She has published more than a dozen papers, including those in leading IEEE Transactions and ACM Transactions. Her research interests mainly include Evolvable HardWare (EHW) based on memristors, brain-inspired computing, and Genetic Programming (GP). </div>
+Xinming Shi received the B.E. degree in electronic engineering from Wuhan University of Technology and B.A. degree in English literature from from Wuhan University, Wuhan, China, in 2016.  She received the M.E. degree in School of Artificial Intelligence & Automation from Huazhong University of Science and Technology, Wuhan, China, in 2019. In 2023, she got her Ph.D. degree in Computer Science at the University of Birmingham, U.K., in collaboration with Southern University of Science and Technology, Shenzhen, China. She has spent her Ph.D from three different universities during Ph.D., including UoB in UK, Southern University of Science and Technology (SUSTech) in China, and Victoria University of Wellington (VUW) in New Zealand. She has published more than a dozen papers, including those in leading IEEE Transactions and ACM Transactions. </div>
+
+<div style='height: 1px; background-color: #e0e0e0; margin: 20px 0;'></div>
+
+Research Interests
+------
+Inspired by the human brain, the development of brain-inspired intelligence is a rapidly expanding area in AI. Facing the constraints of traditional von Neumann architectures and the diminishing of Moore's Law, the computing performance of the intelligent hardware needs to be continuously improved. We delve into devices, algorithms, circuits, and architecture, focusing on the use of brain-inspired learning, memory, and evolution in designing software algorithms and hardware, targeting applications in edge computing, robotics, and large language models (LLMs).
+
+* Neuromorphic Computing Hardware & Software
+* Evolutionary Learning
+<div style='height: 1px; background-color: #e0e0e0; margin: 20px 0;'></div>
+
+Open Positions
+------
+We are actively seeking individuals with strong programming and circuit design skills to tackle challenges at the intersection of neuromorphic computing and computational intelligence. If you are interested, we offer various opportunities including multiple PhD, Joint PhD, Part-time PhD, Research Assistant (RA), and Visiting Scholar positions. Our research focuses on the following prospective topics:
+* Brain-inspired intelligence algorithms, such as spiking neural networks
+* Design of trustworthy brain-inspired computing systems
+* Evolutionary learning algorithm and its brain-inspired hardware implementation
+* Brain-inspired Hardware-Algorithm Co-design Framework
+* Efficient Brain-inspired LLM algorithm/hardware design
 
 <div style='height: 1px; background-color: #e0e0e0; margin: 20px 0;'></div>
 
@@ -32,13 +51,6 @@ Work Experience
 * 2020.12--2021.03, Advanced researcher intern on the project of intelligent complier of brain-like chip, Huawei 2012 Laboratories Central Research Institute, China.
 * 2020.01--2020.06, Teaching assistant of Data Structures & Algorithms, University of Birmingham, UK.
 * 2018.02--2018.06, Teaching assistant of Opsearchs Research, Huazhong University of Science and Technology, China.
-<div style='height: 1px; background-color: #e0e0e0; margin: 20px 0;'></div>
-
-Research Interests
-------
-* Evolvable HardWare (EHW) based on Memristors
-* Brain-inspired Computing
-* Genetic Programming
 <div style='height: 1px; background-color: #e0e0e0; margin: 20px 0;'></div>
 
 Research Samples
