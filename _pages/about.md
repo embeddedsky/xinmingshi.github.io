@@ -151,10 +151,10 @@ Publication List
 	
 	
 		<li> Zilu Wang, <b>Xingming Shi</b>, and Xin Yao, "A Brain-Inspired Hardware Architecture for Evolutionary Algorithms based on Memristive Arrays," in <i>ACM Transactions on Design Automation of Electronic Systems</i>, doi: 10.1145/3598421.</li>	
+
+  		<li> <b>Xingming Shi</b>, Leandro L. Minku and Xin Yao, "Tree-based Genetic Programming for Evolutionary Analog Circuit with Approximate Shapley Value," in <i> AI-2024: The Forty-fourth SGAI International Conference </i>, Cambridge, UK, 2024, accepted.</li>	
 	
-	
-		<li> <b>Xingming Shi</b>, Leandro L. Minku and Xin Yao, "Novel Memristive Reservoir Computing with Evolvable Topology for Time Series Prediction," in <i> 31st International Conference on Neural Information Processing (ICONIP)</i>, 2024, accepted.</li>	
-				
+		<li> <b>Xingming Shi</b>, Leandro L. Minku and Xin Yao, "Novel Memristive Reservoir Computing with Evolvable Topology for Time Series Prediction," in <i> 31st International Conference on Neural Information Processing (ICONIP)</i>, Auckland, NZ, 2024, accepted.</li>	
   
  		 <li> <b>Xingming Shi</b>, Zilu Wang, Leandro L. Minku and Xin Yao, "Explaining Memristive Reservoir Computing Through Evolving Feature Attribution," in <i>Proceedings of the Genetic and Evolutionary Computation Conference Companion</i>, 2023, doi: 10.1145/3583133.3590619.</li>	
 		
@@ -164,7 +164,7 @@ Publication List
 		
 		<li><b>Xinming Shi</b>, Jiashi Gao, Leandro L. Minku, James Jian Qiao Yu and Xin Yao, "Second-order Time Delay Reservoir Computing for Nonlinear Time Series Problems," <i>2021 IEEE Symposium Series on Computational Intelligence (SSCI)</i>, Orlando, FL, USA, 2021, pp. 1-8, doi: 10.1109/SSCI50451.2021.9659913.</li>
 
-  		<li><b>Xinming Shi</b> and Zilu Wang, "Memristor Modeling with Homeostatic Threshold Variation for Simulation and Application," <i>2023  International Conference on Neuromorphic Computing (ICNC)</i>, Wuhan, China, 2024, pp. 1-10, Accepted.</li>
+  		<li><b>Xinming Shi</b> and Zilu Wang, "Memristor Modeling with Homeostatic Threshold Variation for Simulation and Application," <i>2023  International Conference on Neuromorphic Computing (ICNC)</i>, Wuhan, China, 2024, pp. 281-290, doi: 10.1109/ICNC59488.2023.10462883.</li>
 		
   
   		<li>Le Yang, Zhigang Zeng, and <b>Xinming Shi</b>, “A memristor-based neural network circuit with synchronous weight adjustment,” <i>Neurocomputing</i>, vol. 363, pp. 114–124, 201.</li>
