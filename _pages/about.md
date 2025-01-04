@@ -233,6 +233,9 @@ Honors & Awards
 
 Professional Services
 ------
+<b>Editor</b>
+* 2025--Now: Youth Editor of [Intelligence & Control](https://www.sciltp.com/journals/ic/)
+
 <b>Memberships</b>
 * 2022--Now: SIGEVO Member
 * 2023--Now: IEEE Computational Intelligence Society (CIS) Member
