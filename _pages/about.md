@@ -150,7 +150,9 @@ Publication List
  		 <li><b>Xinming Shi</b>, Zhigang Zeng, Le Yang and Yi Huang, "Memristor-Based Circuit Design for Neuron With Homeostatic Plasticity," in <i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>, vol. 2, no. 5, pp. 359-370, Oct. 2018, doi: 10.1109/TETCI.2018.2829914.</li>
 	
 	
-		<li> Zilu Wang, <b>Xingming Shi</b>, and Xin Yao, "A Brain-Inspired Hardware Architecture for Evolutionary Algorithms based on Memristive Arrays," in <i>ACM Transactions on Design Automation of Electronic Systems</i>, doi: 10.1145/3598421.</li>	
+		<li> Zilu Wang, <b>Xingming Shi</b>, and Xin Yao, "A Brain-Inspired Hardware Architecture for Evolutionary Algorithms based on Memristive Arrays," in <i>ACM Transactions on Design Automation of Electronic Systems</i>, doi: 10.1145/3598421.</li>
+
+  		<li> <b>Xingming Shi</b> and Peng Zhou, "Jumping Memory for Memristive Reservoir Computing," in <i> 2025 IEEE International Symposium on Circuits and Systems </i>, London, UK, 2025, accepted.</li>	
 
   		<li> <b>Xingming Shi</b>, Leandro L. Minku and Xin Yao, "Tree-based Genetic Programming for Evolutionary Analog Circuit with Approximate Shapley Value," in <i> AI-2024: The Forty-fourth SGAI International Conference </i>, Cambridge, UK, 2024, accepted.</li>	
 	
