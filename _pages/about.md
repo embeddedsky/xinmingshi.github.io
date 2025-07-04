@@ -151,6 +151,8 @@ Publication List
 	
 	
 		<li> Zilu Wang, <b>Xingming Shi</b>, and Xin Yao, "A Brain-Inspired Hardware Architecture for Evolutionary Algorithms based on Memristive Arrays," in <i>ACM Transactions on Design Automation of Electronic Systems</i>, doi: 10.1145/3598421.</li>
+  
+  		<li> Zilu Wang, <b>Xingming Shi</b>, and Yang Zhang, "Evolution-Enabled Neuromorphic Computing with Memristors," in <i>MEMRISYS 2025</i>, Edinburgh, UK, accepted.</li>
 
   		<li> <b>Xingming Shi</b> and Peng Zhou, "Jumping Memory for Memristive Reservoir Computing," in <i> 2025 IEEE International Symposium on Circuits and Systems </i>, London, UK, 2025, accepted.</li>	
 
