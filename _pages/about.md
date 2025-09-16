@@ -151,6 +151,8 @@ Publication List
 	
 	
 		<li> Zilu Wang, <b>Xingming Shi</b>, and Xin Yao, "A Brain-Inspired Hardware Architecture for Evolutionary Algorithms based on Memristive Arrays," in <i>ACM Transactions on Design Automation of Electronic Systems</i>, doi: 10.1145/3598421.</li>
+
+  <li> <b>Xingming Shi</b> and Xin Yao, "Evolutionary Harnessing of Sneak Currents of 1R Memristive Crossbar," in <i> AI-2025: The Forty-fourth SGAI International Conference </i>, Cambridge, UK, 2025, accepted.</li>	
   
   <li> <b>Xingming Shi</b> et al, "Memristive Dynamical Spiking Neural Networks with Spatiotemporal Heterogeneity," in <i> 2025 International Conference on Machine Intelligence and Nature-inspireD Computing (MIND) </i>, 2025, accepted.</li>	
   
