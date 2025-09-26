@@ -1,19 +1,19 @@
 ---
-title: "Memristor-Based Neuron Circuit with Adaptive Firing Rate"
+title: "Memristive dynamical spiking neural networks with spatiotemporal heterogeneity"
 collection: publications
-permalink: /publication/2018-07-06-paper-title-number-1
+permalink: /publication/2028-08-01-paper-title-number-13
 excerpt: " "
-date: 2018-7-06
-venue: 'Eighth International Conference on Information Science and Technology (ICIST)'
-citation: '<b>Xinming Shi</b> and Zhigang Zeng, "Memristor-Based Neuron Circuit with Adaptive Firing Rate," <i>2018 Eighth International Conference on Information Science and Technology (ICIST)</i>, Cordoba, Granada, and Seville, Spain, 2018, pp. 176-181, doi: 10.1109/ICIST.2018.8426182.'
+date: 2025-8-01
+venue: '2025 International Conference on Machine Intelligence and Nature-InspireD Computing (MIND)'
+citation: '<b>Xinming Shi</b> and Peng Zhou, Connlaoth McTaggart, Xin Yao "Memristive dynamical spiking neural networks with spatiotemporal heterogeneity," <i>2025 International Conference on Machine Intelligence and Nature-InspireD Computing (MIND)</i>, Xiamen, China, 2025.'
 ---
 <div style='display: flex; align-items: center;'>
   <div style='flex: 1;'>
-    <img src='https://github.com/embeddedsky/xinmingshi.github.io/raw/master/images/paper1.jpg' alt="Memristor-Based Neuron Circuit" style='width: 100%;'>
+    <img src='https://github.com/embeddedsky/xinmingshi.github.io/raw/master/images/paper13.jpg' alt="MSNN" style='width: 100%;'>
   </div>
   <div style='flex: 2; margin-left: 20px;'>
-    <div style="color: rosybrown; text-align: justify;">Adaptive firing rate of neuron plays an indispensable role in stabilizing the neural system, which means that the firing rate of neuron could be adjusted adaptively within an inherent range. In this paper, two aspects of implementing the adaptive firing rate are proposed at the circuit level. First, a memristor model is used in the neuron circuit to represent membrane sensitivity. Second, the threshold voltage of neuron circuit can be adjusted adaptively to change the firing rate. Combined these two methods, the adaptive firing rate of neuron circuit is realized effectively, which is in accordance with its biological counterpart. Furthermore, the proposed neuron circuit is applied in the spiking neural network to verify its functionality, where pattern recognition could be realized. All the simulations are carried out on PSPICE.</div>
+    <div style="color: rosybrown; text-align: justify;">We propose a fully memristive spiking neural network (MSNN) that incorporates spatiotemporal heterogeneity to improve temporal representation and fault tolerance. In our proposed work, each neuron possesses a distinct time constant (spatial heterogeneity) that evolves over time in response to input stimuli (temporal heterogeneity), enabling diverse, adaptive, and temporally rich responses. Both synaptic and neuronal behaviors are modeled using SPICE-level analog memristors, and the network is trained end-to-end using backpropagation through time (BPTT) in a differentiable framework. This approach eliminates the need for digital interfacing circuits such as ADCs or explicit comparators, supporting compact and efficient hardware deployment. Evaluations on the MNIST and DVS128 Gesture datasets show competitive accuracy and significantly improved robustness to hardware faults, such as stuck-at errors in RRAM cells. These results demonstrate the effectiveness of spatiotemporally heterogeneous MSNNs for scalable, reliable neuromorphic computing.</div>
   </div>
 </div>
 
-[Download paper here](https://github.com/embeddedsky/xinmingshi.github.io/raw/master/files/paper1.pdf)
+[Download paper here](https://github.com/embeddedsky/xinmingshi.github.io/raw/master/files/paper13.pdf)
