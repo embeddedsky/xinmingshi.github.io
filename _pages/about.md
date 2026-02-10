@@ -218,6 +218,7 @@ Patents
 
 Research Grant
 ------
+* 2026 <b>NeuMat Summer Studentships</b>, PI, [Neumat](https://www.neumat.co.uk/activities-new/summer-student-internships/neumat-summer-undergraduate-studentships-2026/)
 * 2023 <b>IEEE CIS Graduate Student Research Grants</b>, PI (USD 4,000), [IEEE Computational Intelligence Society (CIS)](https://cis.ieee.org/activities/educational-activites/research-grants?highlight=WyJncmFudCJd)
 
 <div style='height: 1px; background-color: #e0e0e0; margin: 20px 0;'></div>
