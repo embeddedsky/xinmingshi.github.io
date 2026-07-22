@@ -151,6 +151,10 @@ Publication List
 	
 	
 		<li> Zilu Wang, <b>Xingming Shi</b>, and Xin Yao, "A Brain-Inspired Hardware Architecture for Evolutionary Algorithms based on Memristive Arrays," in <i>ACM Transactions on Design Automation of Electronic Systems</i>, doi: 10.1145/3598421.</li>
+
+		<li> H. Y. Ooi and <b>Xinming Shi</b>, “Fully Memristive Spiking Neural Network with Forward-Forward Learning,” <i>2026 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)</i>, 2026, Accepted for Publication.</li>
+
+		<li> S. McCorriston and <b>Xinming Shi</b>, “Noise-Resilient and Energy-Efficient Memristor-Based LSTM Networks,” <i>The 8th International Conference on Data-driven Optimization of Complex Systems (DOCS 2026)</i>, 2026, Accepted for Publication.</li>
 		
 		<li> <b> Xinming Shi</b> “Analysis and Evolution of Dynamics in 1R Memristive Crossbars: from Sneak Currents to Analog Computing,” <i> 2026 IEEE International Symposium on Circuits and Systems</i> , 2026, Accepted for Publication.</li>	
 
