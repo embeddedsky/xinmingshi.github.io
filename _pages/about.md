@@ -67,6 +67,19 @@ Work Experience
 
 Research Samples
 ------
+<div style='display: flex; align-items: center;'>
+  <div style='flex: 1.3; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);'>
+    <img src='https://github.com/embeddedsky/xinmingshi.github.io/raw/master/images/paper_tevc.png' alt="Spike-driven Sparse Binary Representation Learning for Large-scale Multi-objective Optimization" style='width: 100%;'>
+  </div>
+  <div style='flex: 1.2; margin-left: 20px;'>
+    <div style="text-align: justify; font-size: 14px;">
+      <a href="https://github.com/embeddedsky/xinmingshi.github.io/raw/master/files/paper14.pdf">A Brain-Inspired Hardware Architecture for Evolutionary Algorithms Based on Memristive Arrays</a><br>
+      Fei Ming, <b>Xinming Shi</b>, Wenxuan Pan, and Yaochu Jin<br>
+    This paper focuses on sparse large-scale multi-objective optimization problems, where the decision variables are binary and the Pareto-optimal solutions are sparse. The main idea is to use a lightweight spiking neural network (SNN) to learn which decision variables are more likely to be active, helping reduce the search space and improve optimization efficiency. The method combines Hebbian learning for local sparse-pattern learning, KL-divergence loss for learning the global distribution of Pareto solutions, and an adaptive firing threshold to handle problems with different sparsity levels.
+    </div>
+  </div>
+</div>
+<div style='height: 1px; background-color: #e0e0e0; margin: 20px 0;'></div>
 
 <div style='display: flex; align-items: center;'>
   <div style='flex: 1.3; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);'>
