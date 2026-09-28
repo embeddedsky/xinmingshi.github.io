@@ -243,9 +243,12 @@ Patents
 
 Research Grant
 ------
-* 2026 <b>NeuMat Summer Studentships</b>, PI, [Neumat](https://www.neumat.co.uk/activities-new/summer-student-internships/neumat-summer-undergraduate-studentships-2026/)
-* 2023 <b>IEEE CIS Graduate Student Research Grants</b>, PI (USD 4,000), [IEEE Computational Intelligence Society (CIS)](https://cis.ieee.org/activities/educational-activites/research-grants?highlight=WyJncmFudCJd)
-
+* 2026 <b>NeuMat Summer Studentship</b>, PI, "Fully Memristive Spiking Neural Network with Forward-Forward Learning", [NeuMat](https://www.neumat.co.uk/activities-new/summer-student-internships/neumat-summer-undergraduate-studentships-2026/)
+* 2026--2029 <b>BBSRC-funded Northern Ireland Landscape Partnership in AI for Bioscience [(NILAB)](https://www.qub.ac.uk/sites/nilab/)</b>, Co-PI, "Machine Learning-assisted Antibacterial Drug Discovery"
+* 2024--Now <b>Queen’s University Belfast Agility Funding</b>, PI, "Memristor-based Evolvable Brain-inspired Systems"
+* 2023 <b>IEEE CIS Graduate Student Research Grant</b>, PI, "Explainable Neuromorphic Computing", [IEEE Computational Intelligence Society (CIS)](https://cis.ieee.org/activities/educational-activites/research-grants?highlight=WyJncmFudCJd)
+* 2023--2027 <b>Key Project of Guangdong Basic and Applied Basic Research Foundation</b>, Key Member, "Trustworthy, Explainable and Evolvable Intelligence"
+* 2018--2023 <b>Pearl River Talent Program Innovation and Entrepreneurship Team Project</b>, Key Member, "Brain-inspired Intelligence and Intelligent Hardware"
 <div style='height: 1px; background-color: #e0e0e0; margin: 20px 0;'></div>
 
 Honors & Awards
