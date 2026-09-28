@@ -152,6 +152,8 @@ Publication List
 ------
 <ol reversed>
 		<div style="text-align: justify;">
+		<li>Fei Ming, <b>Xinming Shi</b>, Wenxuan Pan and Yaochu Jin, "Spike-driven Sparse Binary Representation Learning for Large-scale Multi-objective Optimization," in <i>IEEE Transactions on Evolutionary Computation</i>, 2026, accepted.</li>
+			
 		<li> <b>Xingming Shi</b>, Leandro L. Minku and Xin Yao, "Evolving Memristive Reservoir," in <i>IEEE Transactions on Neural Networks and Learning Systems</i>, doi: 10.1109/TNNLS.2023.3270224.</li>	
 	
 		
@@ -164,6 +166,12 @@ Publication List
 	
 	
 		<li> Zilu Wang, <b>Xingming Shi</b>, and Xin Yao, "A Brain-Inspired Hardware Architecture for Evolutionary Algorithms based on Memristive Arrays," in <i>ACM Transactions on Design Automation of Electronic Systems</i>, doi: 10.1145/3598421.</li>
+
+		  <li> <b>Xingming Shi</b> and Xin Yao, "Dual-Memory Enhancement for Fully Analog Memristive Time Delay Reservoirs," in <i> AI-2026: The Forty-fifth SGAI International Conference </i>, Cambridge, UK, 2026, accepted.</li>	
+
+		  <li>Anupama Santhosh, Sumit Datta, <b>Xinming Shi</b> and Alex James, "Arapaima-LIF: An Oxygen-Regulated Spiking Neuron for Temporal Memory Retention," in <i>2026 IEEE 33rd International Conference on Electronics, Circuits and Systems (ICECS)</i>, 2026, accepted.</li>
+
+		<li>Thi Khanh Chi Huynh, Ngoc Phu Doan, Viet-Hung Tran, Xuan Hoang Nguyen, Diep Phan, Mai Duong Nguyen, Phi Hung Nguyen, Zichi Zhang, Yimeng An, Peixin Li, <b>Xinming Shi</b>, Thai Son Mai and Anna Jurek-Loughrey, "OSAMTE: Multi-Threshold Ensemble Approach for Obstructive Sleep Apnea Severity Classification," in <i>2026 18th International Conference on Knowledge and System Engineering (KSE)</i>, 2026, accepted.</li>
 
 		<li> H. Y. Ooi and <b>Xinming Shi</b>, “Fully Memristive Spiking Neural Network with Forward-Forward Learning,” <i>2026 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)</i>, 2026, Accepted for Publication.</li>
 
@@ -271,8 +279,16 @@ Professional Services
 * 2023--Now: IEEE Computational Intelligence Society (CIS) Member
 * 2023--Now: Chinese Institute of Electronics Member
 
-<b>Committee Services</b>
-* 2021--2023: Committee Member, [Conference Activities and Communications Subcommittee in IEEE Computational Intelligence Society (CIS)]( https://cis.ieee.org/conferences/welcome-conferences/conferences-commitee/conference-activities-and-communications).
+<b>Technical Committee Services</b>
+* 2025--Now: Member, IEEE Circuits and Systems Society (CASS) Technical Committee on Neural Systems and Applications
+* 2026--Now: Member, IEEE Circuits and Systems Society (CASS) Technical Committee on Nonlinear Circuits and Systems
+* 2022--2024: Committee Member, [Conference Activities and Communications Subcommittee in IEEE Computational Intelligence Society (CIS)](https://cis.ieee.org/conferences/welcome-conferences/conferences-commitee/conference-activities-and-communications)
+
+<b>Conference Services</b>
+* 2026: Technical Program Committee Member, IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)
+* 2026: Track Co-Chair, Review Committee Member, and Session Chair, IEEE International Symposium on Circuits and Systems (ISCAS)
+* 2025: Program Committee Member, IEEE/ACM International Conference on Neuromorphic Systems (ICONS)
+* 2025: Review Committee Member and Session Chair, IEEE International Symposium on Circuits and Systems (ISCAS)
 
 <b>Reviews</b>
 * Reviewer of TNNLS
